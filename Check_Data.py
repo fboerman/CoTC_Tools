@@ -1,6 +1,6 @@
 __author__ = 'williewonka'
 
-#for now this tool checks if the provinces title exists and if this title has an owner
+#this tool checks if the provinces title exists and if this title has an owner
 
 import json
 # import random
