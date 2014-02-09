@@ -25,8 +25,10 @@ for line in streamin:
         name_ori = line.split('"')[1].strip("\n").strip()#isolate the name
         #check if the name is already correctly in the province files, then skip this one
         if name_ori in existing_provinces or "Sector" in name_ori:
+            streamout.writelines(line)
             continue
         #if not see if there is a similar name in the list, if so than correct the name to this
+        newline = line
         for province in existing_provinces:
             #caLculate fuzzy ratio
             ratio = fuzz.ratio(province, name_ori)
@@ -37,13 +39,15 @@ for line in streamin:
                 if cache == "":
                     choice = input("Accept? (y/n) ")
                     if choice == "y":
-                        streamout.write(line.replace(name_ori, province))
-                        print("Changed line to: " + line.replace(name_ori, province).strip("\n"))
+                        newline = line.replace(name_ori, province).strip("\n")
+                        print("Changed line to: " + newline)
                     cache = choice
                 else:
                     if cache == "y":
-                        streamout.write(line.replace(name_ori, province))
+                        newline = line.replace(name_ori, province).strip("\n")
                     cache = ""
+
+        streamout.writelines(newline)
+
     else:
-        streamout.write(line)
-        pass
+        streamout.writelines(line)

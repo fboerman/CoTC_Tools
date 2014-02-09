@@ -3,10 +3,12 @@ Version	"2.11"
 graph
 [
 	hierarchic	1
+	label	""
 	directed	1
 	node
 	[
 		id	0
+		label	"New Frontier"
 		graphics
 		[
 			x	-516.4716778528783
@@ -24,6 +26,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"New Frontier"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -37,6 +40,7 @@ graph
 	node
 	[
 		id	1
+		label	"Sector Deadwood"
 		graphics
 		[
 			x	-201.52099146894977
@@ -54,6 +58,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Deadwood"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -68,6 +73,7 @@ graph
 	node
 	[
 		id	2
+		label	"Goldenrod"
 		graphics
 		[
 			x	-178.4642361560011
@@ -80,6 +86,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Goldenrod"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -90,6 +97,7 @@ graph
 	node
 	[
 		id	3
+		label	"Deadwood"
 		graphics
 		[
 			x	-163.99117612599184
@@ -102,6 +110,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Deadwood"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -112,6 +121,7 @@ graph
 	node
 	[
 		id	4
+		label	"Roosevelt"
 		graphics
 		[
 			x	-241.0576427494077
@@ -124,6 +134,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Roosevelt"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -134,6 +145,7 @@ graph
 	node
 	[
 		id	5
+		label	"Sector Jefferson"
 		graphics
 		[
 			x	-395.91378396779356
@@ -151,6 +163,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Jefferson"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -165,6 +178,7 @@ graph
 	node
 	[
 		id	6
+		label	"Stacker"
 		graphics
 		[
 			x	-436.2184480732194
@@ -177,6 +191,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Stacker"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -187,6 +202,7 @@ graph
 	node
 	[
 		id	7
+		label	"Jefferson"
 		graphics
 		[
 			x	-362.3582282929997
@@ -199,6 +215,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Jefferson"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -209,6 +226,7 @@ graph
 	node
 	[
 		id	8
+		label	"Winterstar"
 		graphics
 		[
 			x	-357.3507557655271
@@ -221,6 +239,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Winterstar"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -231,6 +250,7 @@ graph
 	node
 	[
 		id	9
+		label	"Miracle"
 		graphics
 		[
 			x	-442.47778873256004
@@ -243,6 +263,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Miracle"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -253,6 +274,7 @@ graph
 	node
 	[
 		id	10
+		label	"Sector Douglas"
 		graphics
 		[
 			x	-350.4494111810826
@@ -270,6 +292,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Douglas"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -284,6 +307,7 @@ graph
 	node
 	[
 		id	11
+		label	"Overlook"
 		graphics
 		[
 			x	-302.57191322151243
@@ -296,6 +320,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Overlook"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -306,6 +331,7 @@ graph
 	node
 	[
 		id	12
+		label	"Douglas"
 		graphics
 		[
 			x	-400.3220263281528
@@ -318,6 +344,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Douglas"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -328,6 +355,7 @@ graph
 	node
 	[
 		id	13
+		label	"Farland"
 		graphics
 		[
 			x	-390.92445228401243
@@ -340,6 +368,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Farland"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -350,6 +379,7 @@ graph
 	node
 	[
 		id	14
+		label	"Sector Washington"
 		graphics
 		[
 			x	-815.1468155687758
@@ -367,6 +397,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Washington"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -381,6 +412,7 @@ graph
 	node
 	[
 		id	15
+		label	"Delaware"
 		graphics
 		[
 			x	-851.969291101056
@@ -393,6 +425,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Delaware"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -403,6 +436,7 @@ graph
 	node
 	[
 		id	16
+		label	"Shadow's Rim"
 		graphics
 		[
 			x	-859.4804998922648
@@ -415,6 +449,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Shadow's Rim"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -425,6 +460,7 @@ graph
 	node
 	[
 		id	17
+		label	"Washington"
 		graphics
 		[
 			x	-764.3385218702867
@@ -437,6 +473,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Washington"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -447,6 +484,7 @@ graph
 	node
 	[
 		id	18
+		label	"Sector Lafayette"
 		graphics
 		[
 			x	-606.4821876007882
@@ -464,6 +502,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Lafayette"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -478,6 +517,7 @@ graph
 	node
 	[
 		id	19
+		label	"Silhouette"
 		graphics
 		[
 			x	-641.2801857549777
@@ -490,6 +530,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Silhouette"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -500,6 +541,7 @@ graph
 	node
 	[
 		id	20
+		label	"De Gaulle"
 		graphics
 		[
 			x	-551.1456802604722
@@ -512,6 +554,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"De Gaulle"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -522,6 +565,7 @@ graph
 	node
 	[
 		id	21
+		label	"Lafayette"
 		graphics
 		[
 			x	-663.813812128604
@@ -534,6 +578,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Lafayette"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -544,6 +589,7 @@ graph
 	node
 	[
 		id	22
+		label	"Sector Franklin"
 		graphics
 		[
 			x	-585.275399848719
@@ -561,6 +607,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Franklin"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -575,6 +622,7 @@ graph
 	node
 	[
 		id	23
+		label	"Franklin"
 		graphics
 		[
 			x	-588.8284733377299
@@ -587,6 +635,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Franklin"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -597,6 +646,7 @@ graph
 	node
 	[
 		id	24
+		label	"Legacy"
 		graphics
 		[
 			x	-543.7612205904771
@@ -609,6 +659,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Legacy"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -619,6 +670,7 @@ graph
 	node
 	[
 		id	25
+		label	"Touchdown"
 		graphics
 		[
 			x	-615.1177041069607
@@ -631,6 +683,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Touchdown"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -641,6 +694,7 @@ graph
 	node
 	[
 		id	26
+		label	"Sector Adams"
 		graphics
 		[
 			x	-701.6161549655924
@@ -658,6 +712,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Adams"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -672,6 +727,7 @@ graph
 	node
 	[
 		id	27
+		label	"Abigail"
 		graphics
 		[
 			x	-752.6478689937517
@@ -684,6 +740,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Abigail"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -694,6 +751,7 @@ graph
 	node
 	[
 		id	28
+		label	"Adams"
 		graphics
 		[
 			x	-651.246550312433
@@ -706,6 +764,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Adams"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -716,6 +775,7 @@ graph
 	node
 	[
 		id	29
+		label	"Eagle"
 		graphics
 		[
 			x	-745.1366602025428
@@ -728,6 +788,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Eagle"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -738,6 +799,7 @@ graph
 	node
 	[
 		id	30
+		label	"Delphi"
 		graphics
 		[
 			x	-700.06940745529
@@ -750,6 +812,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Delphi"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -760,6 +823,7 @@ graph
 	node
 	[
 		id	31
+		label	"Jion"
 		graphics
 		[
 			x	-555.5031305419191
@@ -777,6 +841,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Jion"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -790,6 +855,7 @@ graph
 	node
 	[
 		id	32
+		label	"Sector Okyoto-Nara
 "
 		graphics
 		[
@@ -808,6 +874,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Okyoto-Nara
 "
 			fill	"#EBEBEB"
 			fontSize	15
@@ -823,6 +890,7 @@ graph
 	node
 	[
 		id	33
+		label	"Shiga"
 		graphics
 		[
 			x	-881.7656161948728
@@ -835,6 +903,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Shiga"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -844,6 +913,7 @@ graph
 	node
 	[
 		id	34
+		label	"Sabashi"
 		graphics
 		[
 			x	-880.5137480630046
@@ -856,6 +926,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sabashi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -865,6 +936,7 @@ graph
 	node
 	[
 		id	35
+		label	"Okyoto"
 		graphics
 		[
 			x	-815.4166052058619
@@ -877,6 +949,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Okyoto"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -886,6 +959,7 @@ graph
 	node
 	[
 		id	36
+		label	"Mie"
 		graphics
 		[
 			x	-789.1273744366312
@@ -898,6 +972,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Mie"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -907,6 +982,7 @@ graph
 	node
 	[
 		id	37
+		label	"Nara"
 		graphics
 		[
 			x	-743.2602287890313
@@ -919,6 +995,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nara"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -928,6 +1005,7 @@ graph
 	node
 	[
 		id	38
+		label	"Sector Iogi"
 		graphics
 		[
 			x	-603.7754189507107
@@ -945,6 +1023,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Iogi"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -959,6 +1038,7 @@ graph
 	node
 	[
 		id	39
+		label	"Fuyuki"
 		graphics
 		[
 			x	-648.9181436674003
@@ -971,6 +1051,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Fuyuki"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -980,6 +1061,7 @@ graph
 	node
 	[
 		id	40
+		label	"Odayakanaumi"
 		graphics
 		[
 			x	-581.3172645465212
@@ -992,6 +1074,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Odayakanaumi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1001,6 +1084,7 @@ graph
 	node
 	[
 		id	41
+		label	"Iogi"
 		graphics
 		[
 			x	-640.1550667443234
@@ -1013,6 +1097,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Iogi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1022,6 +1107,7 @@ graph
 	node
 	[
 		id	42
+		label	"Sector Sumitomo"
 		graphics
 		[
 			x	-467.6252144363755
@@ -1039,6 +1125,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Sumitomo"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1053,6 +1140,7 @@ graph
 	node
 	[
 		id	43
+		label	"Sumitomo"
 		graphics
 		[
 			x	-439.1759146946037
@@ -1065,6 +1153,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sumitomo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1074,6 +1163,7 @@ graph
 	node
 	[
 		id	44
+		label	"Saber"
 		graphics
 		[
 			x	-507.0725610531472
@@ -1086,6 +1176,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Saber"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1095,6 +1186,7 @@ graph
 	node
 	[
 		id	45
+		label	"Sector Jion"
 		graphics
 		[
 			x	-559.499544495142
@@ -1112,6 +1204,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Jion"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1126,6 +1219,7 @@ graph
 	node
 	[
 		id	46
+		label	"Akasei"
 		graphics
 		[
 			x	-448.7738970588234
@@ -1138,6 +1232,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Akasei"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1147,6 +1242,7 @@ graph
 	node
 	[
 		id	47
+		label	"Jion"
 		graphics
 		[
 			x	-547.8065434173669
@@ -1159,6 +1255,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Jion"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1168,6 +1265,7 @@ graph
 	node
 	[
 		id	48
+		label	"Kojo"
 		graphics
 		[
 			x	-537.1125491879443
@@ -1180,6 +1278,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Kojo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1189,6 +1288,7 @@ graph
 	node
 	[
 		id	49
+		label	"Uminoasa"
 		graphics
 		[
 			x	-666.2222622439606
@@ -1201,6 +1301,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Uminoasa"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1210,6 +1311,7 @@ graph
 	node
 	[
 		id	50
+		label	"Sector Hiyokuoka"
 		graphics
 		[
 			x	-417.78060981772495
@@ -1227,6 +1329,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Hiyokuoka"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1241,6 +1344,7 @@ graph
 	node
 	[
 		id	51
+		label	"Takagi"
 		graphics
 		[
 			x	-364.3689704804997
@@ -1253,6 +1357,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Takagi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1262,6 +1367,7 @@ graph
 	node
 	[
 		id	52
+		label	"Sen eisei"
 		graphics
 		[
 			x	-464.5184210299502
@@ -1274,6 +1380,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sen eisei"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1283,6 +1390,7 @@ graph
 	node
 	[
 		id	53
+		label	"Hiyokuoka"
 		graphics
 		[
 			x	-414.44369575522495
@@ -1295,6 +1403,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Hiyokuoka"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1304,6 +1413,7 @@ graph
 	node
 	[
 		id	54
+		label	"Sector Taikun"
 		graphics
 		[
 			x	-274.1030273437502
@@ -1321,6 +1431,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Taikun"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1335,6 +1446,7 @@ graph
 	node
 	[
 		id	55
+		label	"Moegara"
 		graphics
 		[
 			x	-310.7154947916669
@@ -1347,6 +1459,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Moegara"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1356,6 +1469,7 @@ graph
 	node
 	[
 		id	56
+		label	"Taikun"
 		graphics
 		[
 			x	-231.81868489583348
@@ -1368,6 +1482,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Taikun"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1377,6 +1492,7 @@ graph
 	node
 	[
 		id	57
+		label	"Rasen"
 		graphics
 		[
 			x	-311.1712239583335
@@ -1389,6 +1505,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Rasen"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1398,6 +1515,7 @@ graph
 	node
 	[
 		id	58
+		label	"Witch Head Nebula"
 		graphics
 		[
 			x	-1103.9388240164649
@@ -1415,6 +1533,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Witch Head Nebula"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1428,6 +1547,7 @@ graph
 	node
 	[
 		id	59
+		label	"Lower Witch Head"
 		graphics
 		[
 			x	-1078.5102525878933
@@ -1445,6 +1565,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Lower Witch Head"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1459,6 +1580,7 @@ graph
 	node
 	[
 		id	60
+		label	"WH-930"
 		graphics
 		[
 			x	-1064.8179448955857
@@ -1471,6 +1593,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-930"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1481,6 +1604,7 @@ graph
 	node
 	[
 		id	61
+		label	"WH-336"
 		graphics
 		[
 			x	-1019.8289339065745
@@ -1493,6 +1617,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-336"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1503,6 +1628,7 @@ graph
 	node
 	[
 		id	62
+		label	"WH-178"
 		graphics
 		[
 			x	-1137.191571269212
@@ -1515,6 +1641,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-178"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1525,6 +1652,7 @@ graph
 	node
 	[
 		id	63
+		label	"Core Witch Head"
 		graphics
 		[
 			x	-1128.3893734670141
@@ -1542,6 +1670,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Core Witch Head"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1556,6 +1685,7 @@ graph
 	node
 	[
 		id	64
+		label	"WH-367"
 		graphics
 		[
 			x	-1029.6091536867943
@@ -1568,6 +1698,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-367"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1578,6 +1709,7 @@ graph
 	node
 	[
 		id	65
+		label	"WH-732"
 		graphics
 		[
 			x	-1209.5651976428385
@@ -1590,6 +1722,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-732"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1600,6 +1733,7 @@ graph
 	node
 	[
 		id	66
+		label	"WH-835"
 		graphics
 		[
 			x	-1227.169593247234
@@ -1612,6 +1746,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-835"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1622,6 +1757,7 @@ graph
 	node
 	[
 		id	67
+		label	"Trigorin"
 		graphics
 		[
 			x	-1137.191571269212
@@ -1634,6 +1770,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Trigorin"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1644,6 +1781,7 @@ graph
 	node
 	[
 		id	68
+		label	"Fukuoka"
 		graphics
 		[
 			x	-1098.070692148333
@@ -1656,6 +1794,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Fukuoka"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1666,6 +1805,7 @@ graph
 	node
 	[
 		id	69
+		label	"Ariadne"
 		graphics
 		[
 			x	-1129.3673954450362
@@ -1678,6 +1818,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ariadne"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1688,6 +1829,7 @@ graph
 	node
 	[
 		id	70
+		label	"Upper Witch Head"
 		graphics
 		[
 			x	-1080.4662965439375
@@ -1705,6 +1847,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Upper Witch Head"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1719,6 +1862,7 @@ graph
 	node
 	[
 		id	71
+		label	"WH-021"
 		graphics
 		[
 			x	-1041.031932276517
@@ -1731,6 +1875,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-021"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1741,6 +1886,7 @@ graph
 	node
 	[
 		id	72
+		label	"WH-064"
 		graphics
 		[
 			x	-980.7080547856956
@@ -1753,6 +1899,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-064"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1763,6 +1910,7 @@ graph
 	node
 	[
 		id	73
+		label	"WH-998"
 		graphics
 		[
 			x	-1180.224538302179
@@ -1775,6 +1923,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-998"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1785,6 +1934,7 @@ graph
 	node
 	[
 		id	74
+		label	"WH-229"
 		graphics
 		[
 			x	-1111.7629998406405
@@ -1797,6 +1947,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-229"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1807,6 +1958,7 @@ graph
 	node
 	[
 		id	75
+		label	"WH-253"
 		graphics
 		[
 			x	-1029.6091536867943
@@ -1819,6 +1971,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"WH-253"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1829,6 +1982,7 @@ graph
 	node
 	[
 		id	76
+		label	"Napata"
 		graphics
 		[
 			x	-1125.4553075329482
@@ -1841,6 +1995,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Napata"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1851,6 +2006,7 @@ graph
 	node
 	[
 		id	77
+		label	"Alpha Sagittarii"
 		graphics
 		[
 			x	-1043.3014613791022
@@ -1863,6 +2019,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Alpha Sagittarii"
 			color	"#800080"
 			fontSize	12
 			fontName	"Dialog"
@@ -1873,6 +2030,7 @@ graph
 	node
 	[
 		id	78
+		label	"Strugatsky"
 		graphics
 		[
 			x	-824.228320299875
@@ -1890,6 +2048,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Strugatsky"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1903,6 +2062,7 @@ graph
 	node
 	[
 		id	79
+		label	"Sector Raduga"
 		graphics
 		[
 			x	-1008.9942749702047
@@ -1920,6 +2080,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Raduga"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -1934,6 +2095,7 @@ graph
 	node
 	[
 		id	80
+		label	"Kristall"
 		graphics
 		[
 			x	-919.2339837184876
@@ -1946,6 +2108,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Kristall"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1955,6 +2118,7 @@ graph
 	node
 	[
 		id	81
+		label	"Luch"
 		graphics
 		[
 			x	-1006.4344554227945
@@ -1967,6 +2131,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Luch"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1976,6 +2141,7 @@ graph
 	node
 	[
 		id	82
+		label	"Granat"
 		graphics
 		[
 			x	-982.3281375646415
@@ -1988,6 +2154,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Granat"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -1997,6 +2164,7 @@ graph
 	node
 	[
 		id	83
+		label	"Raduga"
 		graphics
 		[
 			x	-1090.7399177844218
@@ -2009,6 +2177,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Raduga"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2018,6 +2187,7 @@ graph
 	node
 	[
 		id	84
+		label	"Sector Arkanar"
 		graphics
 		[
 			x	-753.271478739092
@@ -2035,6 +2205,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Arkanar"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2049,6 +2220,7 @@ graph
 	node
 	[
 		id	85
+		label	"Yaila"
 		graphics
 		[
 			x	-686.8424232789272
@@ -2061,6 +2233,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Yaila"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2070,6 +2243,7 @@ graph
 	node
 	[
 		id	86
+		label	"Ruzhena"
 		graphics
 		[
 			x	-809.0247529492568
@@ -2082,6 +2256,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ruzhena"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2091,6 +2266,7 @@ graph
 	node
 	[
 		id	87
+		label	"Arkanar"
 		graphics
 		[
 			x	-774.9739397624437
@@ -2103,6 +2279,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Arkanar"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2112,6 +2289,7 @@ graph
 	node
 	[
 		id	88
+		label	"Pandora"
 		graphics
 		[
 			x	-774.9739397624437
@@ -2124,6 +2302,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Pandora"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2133,6 +2312,7 @@ graph
 	node
 	[
 		id	89
+		label	"Sector Novyy Sol"
 		graphics
 		[
 			x	-917.5824268678624
@@ -2150,6 +2330,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Novyy Sol"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2164,6 +2345,7 @@ graph
 	node
 	[
 		id	90
+		label	"Vladislava"
 		graphics
 		[
 			x	-970.4125049928624
@@ -2176,6 +2358,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Vladislava"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2185,6 +2368,7 @@ graph
 	node
 	[
 		id	91
+		label	"Nad'ezhda"
 		graphics
 		[
 			x	-879.1069507514546
@@ -2197,6 +2381,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nad'ezhda"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2206,6 +2391,7 @@ graph
 	node
 	[
 		id	92
+		label	"Novyy Sol"
 		graphics
 		[
 			x	-864.4125049928624
@@ -2218,6 +2404,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Novyy Sol"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2227,6 +2414,7 @@ graph
 	node
 	[
 		id	93
+		label	"Sector Saula"
 		graphics
 		[
 			x	-767.453297334559
@@ -2244,6 +2432,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Saula"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2258,6 +2447,7 @@ graph
 	node
 	[
 		id	94
+		label	"Solonichenko pas"
 		graphics
 		[
 			x	-770.9007089932128
@@ -2270,6 +2460,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Solonichenko pas"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2279,6 +2470,7 @@ graph
 	node
 	[
 		id	95
+		label	"Saula"
 		graphics
 		[
 			x	-710.9007089932128
@@ -2291,6 +2483,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Saula"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2300,6 +2493,7 @@ graph
 	node
 	[
 		id	96
+		label	"Sector Kovcheg"
 		graphics
 		[
 			x	-606.943346913886
@@ -2317,6 +2511,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Kovcheg"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2331,6 +2526,7 @@ graph
 	node
 	[
 		id	97
+		label	"Katerin Vselennaya"
 		graphics
 		[
 			x	-583.7333243778282
@@ -2343,6 +2539,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Katerin Vselennaya"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2352,6 +2549,7 @@ graph
 	node
 	[
 		id	98
+		label	"Migdal"
 		graphics
 		[
 			x	-557.6944672349711
@@ -2364,6 +2562,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Migdal"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2373,6 +2572,7 @@ graph
 	node
 	[
 		id	99
+		label	"Kovcheg"
 		graphics
 		[
 			x	-653.8379397624436
@@ -2385,6 +2585,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Kovcheg"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -2394,6 +2595,7 @@ graph
 	node
 	[
 		id	100
+		label	"The Centauri Reach"
 		graphics
 		[
 			x	37.3902994791666
@@ -2411,6 +2613,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"The Centauri Reach"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2424,6 +2627,7 @@ graph
 	node
 	[
 		id	101
+		label	"Sector Gagarin"
 		graphics
 		[
 			x	-31.235188802083485
@@ -2441,6 +2645,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Gagarin"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2455,6 +2660,7 @@ graph
 	node
 	[
 		id	102
+		label	"Hu Lao Gate"
 		graphics
 		[
 			x	-19.910026041666583
@@ -2467,6 +2673,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Hu Lao Gate"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2477,6 +2684,7 @@ graph
 	node
 	[
 		id	103
+		label	"Gagarin"
 		graphics
 		[
 			x	-88.11458333333348
@@ -2489,6 +2697,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Gagarin"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2499,6 +2708,7 @@ graph
 	node
 	[
 		id	104
+		label	"Novyy Arkhangelsk"
 		graphics
 		[
 			x	-4.364583333333485
@@ -2511,6 +2721,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Novyy Arkhangelsk"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2521,6 +2732,7 @@ graph
 	node
 	[
 		id	105
+		label	"Sector Tereshkova"
 		graphics
 		[
 			x	139.68009440104169
@@ -2538,6 +2750,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Tereshkova"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2552,6 +2765,7 @@ graph
 	node
 	[
 		id	106
+		label	"Tannhauser Gate"
 		graphics
 		[
 			x	112.36735026041669
@@ -2564,6 +2778,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tannhauser Gate"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2574,6 +2789,7 @@ graph
 	node
 	[
 		id	107
+		label	"Tereshkova"
 		graphics
 		[
 			x	183.24283854166669
@@ -2586,6 +2802,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tereshkova"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2596,6 +2813,7 @@ graph
 	node
 	[
 		id	108
+		label	"Korolev"
 		graphics
 		[
 			x	96.11735026041669
@@ -2608,6 +2826,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Korolev"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2618,6 +2837,7 @@ graph
 	node
 	[
 		id	109
+		label	"Sector Tengoku"
 		graphics
 		[
 			x	-67.56982421875011
@@ -2635,6 +2855,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Tengoku"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2649,6 +2870,7 @@ graph
 	node
 	[
 		id	110
+		label	"Sotogawa no Ten"
 		graphics
 		[
 			x	-42.36295572916674
@@ -2661,6 +2883,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sotogawa no Ten"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2671,6 +2894,7 @@ graph
 	node
 	[
 		id	111
+		label	"Tengoku"
 		graphics
 		[
 			x	-116.46028645833348
@@ -2683,6 +2907,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tengoku"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2693,6 +2918,7 @@ graph
 	node
 	[
 		id	112
+		label	"Terran Commonwealth"
 		graphics
 		[
 			x	483.1978004092262
@@ -2710,6 +2936,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Terran Commonwealth"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2723,6 +2950,7 @@ graph
 	node
 	[
 		id	113
+		label	"Sector Sol"
 		graphics
 		[
 			x	393.490234375
@@ -2740,6 +2968,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Sol"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2754,6 +2983,7 @@ graph
 	node
 	[
 		id	114
+		label	"Sol"
 		graphics
 		[
 			x	432.0
@@ -2766,6 +2996,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sol"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2776,6 +3007,7 @@ graph
 	node
 	[
 		id	115
+		label	"Alpha Centauri"
 		graphics
 		[
 			x	386.0
@@ -2788,6 +3020,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Alpha Centauri"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2798,6 +3031,7 @@ graph
 	node
 	[
 		id	116
+		label	"Sector Sirius"
 		graphics
 		[
 			x	349.99609375
@@ -2815,6 +3049,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Sirius"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2829,6 +3064,7 @@ graph
 	node
 	[
 		id	117
+		label	"Sirius"
 		graphics
 		[
 			x	378.0
@@ -2841,6 +3077,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sirius"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2851,6 +3088,7 @@ graph
 	node
 	[
 		id	118
+		label	"Procyon"
 		graphics
 		[
 			x	329.0
@@ -2863,6 +3101,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Procyon"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2873,6 +3112,7 @@ graph
 	node
 	[
 		id	119
+		label	"Sector Tau Ceti"
 		graphics
 		[
 			x	557.82666015625
@@ -2890,6 +3130,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Tau Ceti"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -2904,6 +3145,7 @@ graph
 	node
 	[
 		id	120
+		label	"Tau Ceti"
 		graphics
 		[
 			x	605.0
@@ -2916,6 +3158,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tau Ceti"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2926,6 +3169,7 @@ graph
 	node
 	[
 		id	121
+		label	"Epsilon Eridani"
 		graphics
 		[
 			x	528.0
@@ -2938,6 +3182,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Epsilon Eridani"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2948,6 +3193,7 @@ graph
 	node
 	[
 		id	122
+		label	"Eta Cassiopeia"
 		graphics
 		[
 			x	569.0
@@ -2960,6 +3206,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Eta Cassiopeia"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -2970,6 +3217,7 @@ graph
 	node
 	[
 		id	123
+		label	"Sector Draconis"
 		graphics
 		[
 			x	522.3310546875
@@ -2987,6 +3235,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Draconis"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3001,6 +3250,7 @@ graph
 	node
 	[
 		id	124
+		label	"Sigma Draconis"
 		graphics
 		[
 			x	482.0
@@ -3013,6 +3263,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sigma Draconis"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -3023,6 +3274,7 @@ graph
 	node
 	[
 		id	125
+		label	"Delta Pavonis"
 		graphics
 		[
 			x	517.0
@@ -3035,6 +3287,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Delta Pavonis"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -3045,6 +3298,7 @@ graph
 	node
 	[
 		id	126
+		label	"Epsilon Indi"
 		graphics
 		[
 			x	548.0
@@ -3057,6 +3311,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Epsilon Indi"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -3067,6 +3322,7 @@ graph
 	node
 	[
 		id	127
+		label	"Beta Hydri"
 		graphics
 		[
 			x	577.0
@@ -3079,6 +3335,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Beta Hydri"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -3089,6 +3346,7 @@ graph
 	node
 	[
 		id	128
+		label	"Sector Altair"
 		graphics
 		[
 			x	637.9014601934524
@@ -3106,6 +3364,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Altair"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3120,6 +3379,7 @@ graph
 	node
 	[
 		id	129
+		label	"Cygni"
 		graphics
 		[
 			x	631.7364211309524
@@ -3132,6 +3392,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Cygni"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -3142,6 +3403,7 @@ graph
 	node
 	[
 		id	130
+		label	"Altair"
 		graphics
 		[
 			x	645.7364211309524
@@ -3154,6 +3416,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Altair"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -3164,6 +3427,7 @@ graph
 	node
 	[
 		id	131
+		label	"Frontier"
 		graphics
 		[
 			x	63.749348958333314
@@ -3181,6 +3445,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Frontier"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3194,6 +3459,7 @@ graph
 	node
 	[
 		id	132
+		label	"Sector Glenn"
 		graphics
 		[
 			x	-35.36539713541663
@@ -3211,6 +3477,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Glenn"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3225,6 +3492,7 @@ graph
 	node
 	[
 		id	133
+		label	"Glenn"
 		graphics
 		[
 			x	-35.58902994791663
@@ -3237,6 +3505,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Glenn"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3246,6 +3515,7 @@ graph
 	node
 	[
 		id	134
+		label	"Touchstone"
 		graphics
 		[
 			x	-2.5865885416666288
@@ -3258,6 +3528,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Touchstone"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3267,6 +3538,7 @@ graph
 	node
 	[
 		id	135
+		label	"Weyland"
 		graphics
 		[
 			x	-128.83658854166663
@@ -3279,6 +3551,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Weyland"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3288,6 +3561,7 @@ graph
 	node
 	[
 		id	136
+		label	"John Henry"
 		graphics
 		[
 			x	50.76692708333337
@@ -3300,6 +3574,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"John Henry"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3309,6 +3584,7 @@ graph
 	node
 	[
 		id	137
+		label	"Sector Armstrong"
 		graphics
 		[
 			x	178.70865885416669
@@ -3326,6 +3602,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Armstrong"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3340,6 +3617,7 @@ graph
 	node
 	[
 		id	138
+		label	"Armstrong"
 		graphics
 		[
 			x	186.91666666666669
@@ -3352,6 +3630,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Armstrong"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3361,6 +3640,7 @@ graph
 	node
 	[
 		id	139
+		label	"Aldrin"
 		graphics
 		[
 			x	248.16666666666669
@@ -3373,6 +3653,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Aldrin"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3382,6 +3663,7 @@ graph
 	node
 	[
 		id	140
+		label	"Heartland"
 		graphics
 		[
 			x	119.92643229166669
@@ -3394,6 +3676,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Heartland"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3403,6 +3686,7 @@ graph
 	node
 	[
 		id	141
+		label	"Collins"
 		graphics
 		[
 			x	111.91666666666669
@@ -3415,6 +3699,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Collins"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3424,6 +3709,7 @@ graph
 	node
 	[
 		id	142
+		label	"Sector Ride"
 		graphics
 		[
 			x	262.69346788194446
@@ -3441,6 +3727,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Ride"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3455,6 +3742,7 @@ graph
 	node
 	[
 		id	143
+		label	"Ride"
 		graphics
 		[
 			x	248.16666666666669
@@ -3467,6 +3755,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ride"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3476,6 +3765,7 @@ graph
 	node
 	[
 		id	144
+		label	"Challenger"
 		graphics
 		[
 			x	348.1246744791667
@@ -3488,6 +3778,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Challenger"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3497,6 +3788,7 @@ graph
 	node
 	[
 		id	145
+		label	"Gemini"
 		graphics
 		[
 			x	212.9441189236112
@@ -3509,6 +3801,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Gemini"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3518,6 +3811,7 @@ graph
 	node
 	[
 		id	146
+		label	"Lincoln"
 		graphics
 		[
 			x	183.82682291666669
@@ -3530,6 +3824,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Lincoln"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3539,6 +3834,7 @@ graph
 	node
 	[
 		id	147
+		label	"Liberty"
 		graphics
 		[
 			x	297.1202799479167
@@ -3551,6 +3847,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Liberty"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3560,6 +3857,7 @@ graph
 	node
 	[
 		id	148
+		label	"Sector Shepard"
 		graphics
 		[
 			x	-109.53011067708331
@@ -3577,6 +3875,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Shepard"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3591,6 +3890,7 @@ graph
 	node
 	[
 		id	149
+		label	"Shepard"
 		graphics
 		[
 			x	-92.7503255208334
@@ -3603,6 +3903,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Shepard"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3612,6 +3913,7 @@ graph
 	node
 	[
 		id	150
+		label	"Jemison"
 		graphics
 		[
 			x	-144.56811798653825
@@ -3624,6 +3926,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Jemison"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3633,6 +3936,7 @@ graph
 	node
 	[
 		id	151
+		label	"Sharman"
 		graphics
 		[
 			x	-166.82454427083331
@@ -3645,6 +3949,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sharman"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3654,6 +3959,7 @@ graph
 	node
 	[
 		id	152
+		label	"Sector Apollo"
 		graphics
 		[
 			x	358.6640625
@@ -3671,6 +3977,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Apollo"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3685,6 +3992,7 @@ graph
 	node
 	[
 		id	153
+		label	"Apollo"
 		graphics
 		[
 			x	371.9990234375
@@ -3697,6 +4005,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Apollo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3706,6 +4015,7 @@ graph
 	node
 	[
 		id	154
+		label	"Beowulf"
 		graphics
 		[
 			x	349.99609375
@@ -3718,6 +4028,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Beowulf"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3727,6 +4038,7 @@ graph
 	node
 	[
 		id	155
+		label	"Cielia"
 		graphics
 		[
 			x	1089.1657236136643
@@ -3744,6 +4056,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Cielia"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3757,6 +4070,7 @@ graph
 	node
 	[
 		id	156
+		label	"Sector Vega"
 		graphics
 		[
 			x	841.22705078125
@@ -3774,6 +4088,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Vega"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3788,6 +4103,7 @@ graph
 	node
 	[
 		id	157
+		label	"Vega"
 		graphics
 		[
 			x	820.46923828125
@@ -3800,6 +4116,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Vega"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3809,6 +4126,7 @@ graph
 	node
 	[
 		id	158
+		label	" Nuevo Sol"
 		graphics
 		[
 			x	792.96923828125
@@ -3821,6 +4139,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	" Nuevo Sol"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3830,6 +4149,7 @@ graph
 	node
 	[
 		id	159
+		label	"Prosperidad"
 		graphics
 		[
 			x	886.48193359375
@@ -3842,6 +4162,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Prosperidad"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3851,6 +4172,7 @@ graph
 	node
 	[
 		id	160
+		label	"Sector Bolivar"
 		graphics
 		[
 			x	900.0474097842261
@@ -3868,6 +4190,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Bolivar"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3882,6 +4205,7 @@ graph
 	node
 	[
 		id	161
+		label	"Estrella de Bolivar"
 		graphics
 		[
 			x	910.6211867559524
@@ -3894,6 +4218,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Estrella de Bolivar"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3903,6 +4228,7 @@ graph
 	node
 	[
 		id	162
+		label	"Santa Maria"
 		graphics
 		[
 			x	765.7559523809524
@@ -3915,6 +4241,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Santa Maria"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3924,6 +4251,7 @@ graph
 	node
 	[
 		id	163
+		label	"Esperanza"
 		graphics
 		[
 			x	1034.5625
@@ -3936,6 +4264,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Esperanza"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3945,6 +4274,7 @@ graph
 	node
 	[
 		id	164
+		label	"Ahora la Luz"
 		graphics
 		[
 			x	1033.0
@@ -3957,6 +4287,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ahora la Luz"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -3966,6 +4297,7 @@ graph
 	node
 	[
 		id	165
+		label	"Sector Sexto Sol"
 		graphics
 		[
 			x	886.48193359375
@@ -3983,6 +4315,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Sexto Sol"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -3997,6 +4330,7 @@ graph
 	node
 	[
 		id	166
+		label	"Nahui-Ahtle"
 		graphics
 		[
 			x	846.9161086309524
@@ -4009,6 +4343,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nahui-Ahtle"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4018,6 +4353,7 @@ graph
 	node
 	[
 		id	167
+		label	"Tletlioh"
 		graphics
 		[
 			x	743.9375
@@ -4030,6 +4366,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tletlioh"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4039,6 +4376,7 @@ graph
 	node
 	[
 		id	168
+		label	"Nantli"
 		graphics
 		[
 			x	856.4375
@@ -4051,6 +4389,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nantli"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4060,6 +4399,7 @@ graph
 	node
 	[
 		id	169
+		label	"Huehca"
 		graphics
 		[
 			x	1027.6875
@@ -4072,6 +4412,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Huehca"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4081,6 +4422,7 @@ graph
 	node
 	[
 		id	170
+		label	"Tlexochtli"
 		graphics
 		[
 			x	997.4830729166666
@@ -4093,6 +4435,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tlexochtli"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4102,6 +4445,7 @@ graph
 	node
 	[
 		id	171
+		label	"Sector Frontera"
 		graphics
 		[
 			x	1319.9766007965686
@@ -4119,6 +4463,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Frontera"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4133,6 +4478,7 @@ graph
 	node
 	[
 		id	172
+		label	"Puerto del Cielo"
 		graphics
 		[
 			x	1251.4469496783088
@@ -4145,6 +4491,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Puerto del Cielo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4154,6 +4501,7 @@ graph
 	node
 	[
 		id	173
+		label	"Illuminacion"
 		graphics
 		[
 			x	1392.281259574142
@@ -4166,6 +4514,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Illuminacion"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4175,6 +4524,7 @@ graph
 	node
 	[
 		id	174
+		label	"Dom Frontera"
 		graphics
 		[
 			x	1290.7281996783088
@@ -4187,6 +4537,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Dom Frontera"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4196,6 +4547,7 @@ graph
 	node
 	[
 		id	175
+		label	"Sector Encrucijada"
 		graphics
 		[
 			x	1234.818870907738
@@ -4213,6 +4565,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Encrucijada"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4227,6 +4580,7 @@ graph
 	node
 	[
 		id	176
+		label	"Encrucijada"
 		graphics
 		[
 			x	1057.2793433779761
@@ -4239,6 +4593,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Encrucijada"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4248,6 +4603,7 @@ graph
 	node
 	[
 		id	177
+		label	"Nuevo Santuario"
 		graphics
 		[
 			x	1141.6181640625
@@ -4260,6 +4616,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nuevo Santuario"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4269,6 +4626,7 @@ graph
 	node
 	[
 		id	178
+		label	"Hermanes de Oro"
 		graphics
 		[
 			x	1274.5625
@@ -4281,6 +4639,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Hermanes de Oro"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4290,6 +4649,7 @@ graph
 	node
 	[
 		id	179
+		label	" Escudo"
 		graphics
 		[
 			x	1422.029296875
@@ -4302,6 +4662,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	" Escudo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4311,6 +4672,7 @@ graph
 	node
 	[
 		id	180
+		label	"Zenye Nyota Angani"
 		graphics
 		[
 			x	713.1485236672793
@@ -4328,6 +4690,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Zenye Nyota Angani"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4341,6 +4704,7 @@ graph
 	node
 	[
 		id	181
+		label	"Sector Nyota 'Mwisho"
 		graphics
 		[
 			x	870.3709405637254
@@ -4358,6 +4722,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Nyota 'Mwisho"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4372,6 +4737,7 @@ graph
 	node
 	[
 		id	182
+		label	"Sisi Alifanya Hivyo"
 		graphics
 		[
 			x	931.9798177083331
@@ -4384,6 +4750,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sisi Alifanya Hivyo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4393,6 +4760,7 @@ graph
 	node
 	[
 		id	183
+		label	"Bandari"
 		graphics
 		[
 			x	802.6652113970588
@@ -4405,6 +4773,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Bandari"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4414,6 +4783,7 @@ graph
 	node
 	[
 		id	184
+		label	"Nyota 'Mwisho"
 		graphics
 		[
 			x	784.5216567095588
@@ -4426,6 +4796,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nyota 'Mwisho"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4435,6 +4806,7 @@ graph
 	node
 	[
 		id	185
+		label	"Sector Afolayan"
 		graphics
 		[
 			x	878.7397121853296
@@ -4452,6 +4824,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Afolayan"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4466,6 +4839,7 @@ graph
 	node
 	[
 		id	186
+		label	"Anansi"
 		graphics
 		[
 			x	846.2845052083331
@@ -4478,6 +4852,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Anansi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4487,6 +4862,7 @@ graph
 	node
 	[
 		id	187
+		label	"Nyame"
 		graphics
 		[
 			x	927.6350911458331
@@ -4499,6 +4875,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nyame"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4508,6 +4885,7 @@ graph
 	node
 	[
 		id	188
+		label	"Afolayan"
 		graphics
 		[
 			x	931.9798177083331
@@ -4520,6 +4898,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Afolayan"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4529,6 +4908,7 @@ graph
 	node
 	[
 		id	189
+		label	"Sector Ndia Panda"
 		graphics
 		[
 			x	785.46826171875
@@ -4546,6 +4926,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Ndia Panda"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4560,6 +4941,7 @@ graph
 	node
 	[
 		id	190
+		label	"Ndia Panda"
 		graphics
 		[
 			x	730.044921875
@@ -4572,6 +4954,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ndia Panda"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4581,6 +4964,7 @@ graph
 	node
 	[
 		id	191
+		label	"Tengemano"
 		graphics
 		[
 			x	830.2775160845588
@@ -4593,6 +4977,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tengemano"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4602,6 +4987,7 @@ graph
 	node
 	[
 		id	192
+		label	"Kimbilio"
 		graphics
 		[
 			x	856.9374999999999
@@ -4614,6 +5000,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Kimbilio"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4623,6 +5010,7 @@ graph
 	node
 	[
 		id	193
+		label	"Sector Adwa"
 		graphics
 		[
 			x	560.9171006944445
@@ -4640,6 +5028,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Adwa"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4654,6 +5043,7 @@ graph
 	node
 	[
 		id	194
+		label	"Addis Adwa"
 		graphics
 		[
 			x	610.6876356336807
@@ -4666,6 +5056,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Addis Adwa"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4675,6 +5066,7 @@ graph
 	node
 	[
 		id	195
+		label	"Menelik"
 		graphics
 		[
 			x	534.3234592013889
@@ -4687,6 +5079,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Menelik"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4696,6 +5089,7 @@ graph
 	node
 	[
 		id	196
+		label	"Haile Selassie"
 		graphics
 		[
 			x	506.3156467013889
@@ -4708,6 +5102,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Haile Selassie"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4717,6 +5112,7 @@ graph
 	node
 	[
 		id	197
+		label	"Abbaba"
 		graphics
 		[
 			x	493.7297092013889
@@ -4729,6 +5125,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Abbaba"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4738,6 +5135,7 @@ graph
 	node
 	[
 		id	198
+		label	"Addis Saba"
 		graphics
 		[
 			x	639.0
@@ -4750,6 +5148,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Addis Saba"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4759,6 +5158,7 @@ graph
 	node
 	[
 		id	199
+		label	"Sector Mpya Zanzibar"
 		graphics
 		[
 			x	595.6650390625
@@ -4776,6 +5176,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Mpya Zanzibar"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4790,6 +5191,7 @@ graph
 	node
 	[
 		id	200
+		label	"Upeo wa Macho"
 		graphics
 		[
 			x	548.0
@@ -4802,6 +5204,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Upeo wa Macho"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4811,6 +5214,7 @@ graph
 	node
 	[
 		id	201
+		label	"Mpya ya Zanzibar"
 		graphics
 		[
 			x	639.0
@@ -4823,6 +5227,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Mpya ya Zanzibar"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4832,6 +5237,7 @@ graph
 	node
 	[
 		id	202
+		label	"Angani Moto"
 		graphics
 		[
 			x	557.0
@@ -4844,6 +5250,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Angani Moto"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -4853,6 +5260,7 @@ graph
 	node
 	[
 		id	203
+		label	"al-Samawat"
 		graphics
 		[
 			x	1113.1991517310048
@@ -4870,6 +5278,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"al-Samawat"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4883,6 +5292,7 @@ graph
 	node
 	[
 		id	204
+		label	"Sector al-Hadd"
 		graphics
 		[
 			x	1329.9896790747548
@@ -4900,6 +5310,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector al-Hadd"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -4914,6 +5325,7 @@ graph
 	node
 	[
 		id	205
+		label	"Qurtubat al-Jadiida"
 		graphics
 		[
 			x	1382.1845032935048
@@ -4926,6 +5338,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Qurtubat al-Jadiida"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -4936,6 +5349,7 @@ graph
 	node
 	[
 		id	206
+		label	"Kathiib"
 		graphics
 		[
 			x	1270.1737611060048
@@ -4948,6 +5362,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Kathiib"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -4958,6 +5373,7 @@ graph
 	node
 	[
 		id	207
+		label	"al-Hadd"
 		graphics
 		[
 			x	1382.1845032935048
@@ -4970,6 +5386,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"al-Hadd"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -4980,6 +5397,7 @@ graph
 	node
 	[
 		id	208
+		label	"Shams Akhdar"
 		graphics
 		[
 			x	1304.1952454810048
@@ -4992,6 +5410,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Shams Akhdar"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5002,6 +5421,7 @@ graph
 	node
 	[
 		id	209
+		label	"Sector al-Bawwaaba"
 		graphics
 		[
 			x	1089.1726888020833
@@ -5019,6 +5439,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector al-Bawwaaba"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5033,6 +5454,7 @@ graph
 	node
 	[
 		id	210
+		label	"al-Bawwaaba"
 		graphics
 		[
 			x	1042.680013020833
@@ -5045,6 +5467,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"al-Bawwaaba"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5055,6 +5478,7 @@ graph
 	node
 	[
 		id	211
+		label	"Izraa'iil"
 		graphics
 		[
 			x	1113.9997223498774
@@ -5067,6 +5491,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Izraa'iil"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5077,6 +5502,7 @@ graph
 	node
 	[
 		id	212
+		label	"al-Jaziira"
 		graphics
 		[
 			x	1147.6800130208333
@@ -5089,6 +5515,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"al-Jaziira"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5099,6 +5526,7 @@ graph
 	node
 	[
 		id	213
+		label	"Sector Jabra'iil"
 		graphics
 		[
 			x	1275.6614200367646
@@ -5116,6 +5544,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Jabra'iil"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5130,6 +5559,7 @@ graph
 	node
 	[
 		id	214
+		label	"al-Jisr"
 		graphics
 		[
 			x	1240.4852653952205
@@ -5142,6 +5572,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"al-Jisr"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5152,6 +5583,7 @@ graph
 	node
 	[
 		id	215
+		label	"Sakina"
 		graphics
 		[
 			x	1212.3737074908088
@@ -5164,6 +5596,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sakina"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5174,6 +5607,7 @@ graph
 	node
 	[
 		id	216
+		label	"Jabra'iil"
 		graphics
 		[
 			x	1311.3990981158088
@@ -5186,6 +5620,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Jabra'iil"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5196,6 +5631,7 @@ graph
 	node
 	[
 		id	217
+		label	"Sector Amal"
 		graphics
 		[
 			x	1183.3219065946691
@@ -5213,6 +5649,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Amal"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5227,6 +5664,7 @@ graph
 	node
 	[
 		id	218
+		label	"Miixaa'iil"
 		graphics
 		[
 			x	1263.5823184742646
@@ -5239,6 +5677,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Miixaa'iil"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5249,6 +5688,7 @@ graph
 	node
 	[
 		id	219
+		label	"Amal"
 		graphics
 		[
 			x	1092.3411458333333
@@ -5261,6 +5701,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Amal"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5271,6 +5712,7 @@ graph
 	node
 	[
 		id	220
+		label	"at-Taw'amayn"
 		graphics
 		[
 			x	1212.3737074908088
@@ -5283,6 +5725,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"at-Taw'amayn"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5293,6 +5736,7 @@ graph
 	node
 	[
 		id	221
+		label	"Sector Makkat al-Jadiida"
 		graphics
 		[
 			x	874.1347751991422
@@ -5310,6 +5754,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Makkat al-Jadiida"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5324,6 +5769,7 @@ graph
 	node
 	[
 		id	222
+		label	"Makkat al-Jadiida"
 		graphics
 		[
 			x	785.9855238970589
@@ -5336,6 +5782,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Makkat al-Jadiida"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5346,6 +5793,7 @@ graph
 	node
 	[
 		id	223
+		label	"Janna"
 		graphics
 		[
 			x	904.171380124165
@@ -5358,6 +5806,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Janna"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5368,6 +5817,7 @@ graph
 	node
 	[
 		id	224
+		label	"Farah"
 		graphics
 		[
 			x	972.2280369178919
@@ -5380,6 +5830,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Farah"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5390,6 +5841,7 @@ graph
 	node
 	[
 		id	225
+		label	"Israafiil"
 		graphics
 		[
 			x	989.9666436887254
@@ -5402,6 +5854,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Israafiil"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5412,6 +5865,7 @@ graph
 	node
 	[
 		id	226
+		label	"Burj Najmii"
 		graphics
 		[
 			x	870.3709405637254
@@ -5424,6 +5878,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Burj Najmii"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5434,6 +5889,7 @@ graph
 	node
 	[
 		id	227
+		label	"Helix Nebula"
 		graphics
 		[
 			x	-325.6176470588234
@@ -5451,6 +5907,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Helix Nebula"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5464,6 +5921,7 @@ graph
 	node
 	[
 		id	228
+		label	"Upper Helix"
 		graphics
 		[
 			x	-343.1631529564951
@@ -5481,6 +5939,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Upper Helix"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5495,6 +5954,7 @@ graph
 	node
 	[
 		id	229
+		label	"HE-702"
 		graphics
 		[
 			x	-225.2086588541668
@@ -5507,6 +5967,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"HE-702"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5517,6 +5978,7 @@ graph
 	node
 	[
 		id	230
+		label	"Port Simon"
 		graphics
 		[
 			x	-332.1176470588234
@@ -5529,6 +5991,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Port Simon"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5539,6 +6002,7 @@ graph
 	node
 	[
 		id	231
+		label	"HE-338"
 		graphics
 		[
 			x	-323.1176470588234
@@ -5551,6 +6015,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"HE-338"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5561,6 +6026,7 @@ graph
 	node
 	[
 		id	232
+		label	"HE-219"
 		graphics
 		[
 			x	-461.1176470588234
@@ -5573,6 +6039,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"HE-219"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5583,6 +6050,7 @@ graph
 	node
 	[
 		id	233
+		label	"Lower Helix"
 		graphics
 		[
 			x	-301.6176470588234
@@ -5600,6 +6068,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Lower Helix"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5614,6 +6083,7 @@ graph
 	node
 	[
 		id	234
+		label	"Eye of God"
 		graphics
 		[
 			x	-287.46377144607845
@@ -5626,6 +6096,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Eye of God"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5636,6 +6107,7 @@ graph
 	node
 	[
 		id	235
+		label	"HE-153"
 		graphics
 		[
 			x	-190.11764705882342
@@ -5648,6 +6120,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"HE-153"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5658,6 +6131,7 @@ graph
 	node
 	[
 		id	236
+		label	"HE-794"
 		graphics
 		[
 			x	-315.1176470588234
@@ -5670,6 +6144,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"HE-794"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5680,6 +6155,7 @@ graph
 	node
 	[
 		id	237
+		label	"HE-843"
 		graphics
 		[
 			x	-413.1176470588234
@@ -5692,6 +6168,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"HE-843"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -5702,6 +6179,7 @@ graph
 	node
 	[
 		id	238
+		label	"Novyy Edem"
 		graphics
 		[
 			x	-406.9060692880669
@@ -5719,6 +6197,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Novyy Edem"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5732,6 +6211,7 @@ graph
 	node
 	[
 		id	239
+		label	"Sector Shen Yan"
 		graphics
 		[
 			x	-190.11764705882342
@@ -5749,6 +6229,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Shen Yan"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5763,6 +6244,7 @@ graph
 	node
 	[
 		id	240
+		label	"Glaz Boga"
 		graphics
 		[
 			x	-208.45065487132342
@@ -5775,6 +6257,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Glaz Boga"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -5784,6 +6267,7 @@ graph
 	node
 	[
 		id	241
+		label	"Luoxuan"
 		graphics
 		[
 			x	-143.4735873353247
@@ -5796,6 +6280,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Luoxuan"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -5805,6 +6290,7 @@ graph
 	node
 	[
 		id	242
+		label	"Shen Yan"
 		graphics
 		[
 			x	-231.94249770220586
@@ -5817,6 +6303,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Shen Yan"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -5826,6 +6313,7 @@ graph
 	node
 	[
 		id	243
+		label	"Sector Novyy Edem"
 		graphics
 		[
 			x	-417.61144301470586
@@ -5843,6 +6331,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Novyy Edem"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5857,6 +6346,7 @@ graph
 	node
 	[
 		id	244
+		label	"Distsiplina"
 		graphics
 		[
 			x	-453.35242417279414
@@ -5869,6 +6359,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Distsiplina"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -5878,6 +6369,7 @@ graph
 	node
 	[
 		id	245
+		label	"Muzhestvo"
 		graphics
 		[
 			x	-328.12999770220586
@@ -5890,6 +6382,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Muzhestvo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -5899,6 +6392,7 @@ graph
 	node
 	[
 		id	246
+		label	"Loyal'nost'"
 		graphics
 		[
 			x	-508.12999770220586
@@ -5911,6 +6405,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Loyal'nost'"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -5920,6 +6415,7 @@ graph
 	node
 	[
 		id	247
+		label	"Novyy Edem"
 		graphics
 		[
 			x	-429.12999770220586
@@ -5932,6 +6428,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Novyy Edem"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -5941,6 +6438,7 @@ graph
 	node
 	[
 		id	248
+		label	"Sector Almaz"
 		graphics
 		[
 			x	-181.24816176470586
@@ -5958,6 +6456,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Almaz"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -5972,6 +6471,7 @@ graph
 	node
 	[
 		id	249
+		label	"Almaz"
 		graphics
 		[
 			x	-167.24816176470586
@@ -5984,6 +6484,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Almaz"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -5993,6 +6494,7 @@ graph
 	node
 	[
 		id	250
+		label	"Zhemchuzhina"
 		graphics
 		[
 			x	-181.24816176470586
@@ -6005,6 +6507,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Zhemchuzhina"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6014,6 +6517,7 @@ graph
 	node
 	[
 		id	251
+		label	"Sector Mir"
 		graphics
 		[
 			x	-671.6684163411455
@@ -6031,6 +6535,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Mir"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6045,6 +6550,7 @@ graph
 	node
 	[
 		id	252
+		label	"Mir"
 		graphics
 		[
 			x	-611.5873616536455
@@ -6057,6 +6563,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Mir"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6066,8 +6573,7 @@ graph
 	node
 	[
 		id	253
-		label	"Vynoslivost"
-		graphics
+		label	"Vynoslivost"		graphics
 		[
 			x	-708.5873616536455
 			y	1094.7164590445554
@@ -6079,8 +6585,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Vynoslivost"
-			fontSize	12
+			text	"Vynoslivost"			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
@@ -6089,6 +6594,7 @@ graph
 	node
 	[
 		id	254
+		label	"Sector Pobeda"
 		graphics
 		[
 			x	-699.2575539981619
@@ -6106,6 +6612,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Pobeda"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6120,6 +6627,7 @@ graph
 	node
 	[
 		id	255
+		label	"Tselostnost'"
 		graphics
 		[
 			x	-663.7239200367649
@@ -6132,6 +6640,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tselostnost'"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6141,6 +6650,7 @@ graph
 	node
 	[
 		id	256
+		label	"Vera"
 		graphics
 		[
 			x	-753.942555147059
@@ -6153,6 +6663,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Vera"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6162,8 +6673,7 @@ graph
 	node
 	[
 		id	257
-		label	"Probeda"
-		graphics
+		label	"Probeda"		graphics
 		[
 			x	-689.942555147059
 			y	982.3399942008054
@@ -6175,8 +6685,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Probeda"
-			fontSize	12
+			text	"Probeda"			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
@@ -6185,6 +6694,7 @@ graph
 	node
 	[
 		id	258
+		label	"Sector Prochnost"
 		graphics
 		[
 			x	-419.54561121323536
@@ -6202,6 +6712,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Prochnost"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6216,6 +6727,7 @@ graph
 	node
 	[
 		id	259
+		label	"Prochnost'"
 		graphics
 		[
 			x	-523.5422794117649
@@ -6228,6 +6740,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Prochnost'"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6237,6 +6750,7 @@ graph
 	node
 	[
 		id	260
+		label	"Ostorozhnost'"
 		graphics
 		[
 			x	-403.02941176470586
@@ -6249,6 +6763,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ostorozhnost'"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6258,6 +6773,7 @@ graph
 	node
 	[
 		id	261
+		label	"Vernost'"
 		graphics
 		[
 			x	-473.5284711053652
@@ -6270,6 +6786,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Vernost'"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6279,6 +6796,7 @@ graph
 	node
 	[
 		id	262
+		label	"Stabil'nost'"
 		graphics
 		[
 			x	-316.02941176470586
@@ -6291,6 +6809,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Stabil'nost'"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6300,6 +6819,7 @@ graph
 	node
 	[
 		id	263
+		label	"Sector Maoxian"
 		graphics
 		[
 			x	-126.04487639782471
@@ -6317,6 +6837,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Maoxian"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6331,6 +6852,7 @@ graph
 	node
 	[
 		id	264
+		label	"Maoxian"
 		graphics
 		[
 			x	-69.87446624157471
@@ -6343,6 +6865,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Maoxian"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6352,6 +6875,7 @@ graph
 	node
 	[
 		id	265
+		label	"Pei Cheng"
 		graphics
 		[
 			x	-176.8744662415747
@@ -6364,6 +6888,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Pei Cheng"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6373,6 +6898,7 @@ graph
 	node
 	[
 		id	266
+		label	"Sector Sovershenstvo"
 		graphics
 		[
 			x	-438.8187040441177
@@ -6390,6 +6916,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Sovershenstvo"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6404,6 +6931,7 @@ graph
 	node
 	[
 		id	267
+		label	"Sovershenstvo"
 		graphics
 		[
 			x	-359.4271599264705
@@ -6416,6 +6944,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sovershenstvo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6425,6 +6954,7 @@ graph
 	node
 	[
 		id	268
+		label	"Ad"
 		graphics
 		[
 			x	-503.11730238970586
@@ -6437,6 +6967,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ad"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6446,6 +6977,7 @@ graph
 	node
 	[
 		id	269
+		label	"Sashi Zvezdy"
 		graphics
 		[
 			x	-419.54227941176487
@@ -6458,6 +6990,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sashi Zvezdy"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6467,6 +7000,7 @@ graph
 	node
 	[
 		id	270
+		label	"Vozneseniye"
 		graphics
 		[
 			x	-523.5422794117649
@@ -6479,6 +7013,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Vozneseniye"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6488,6 +7023,7 @@ graph
 	node
 	[
 		id	271
+		label	"Avalon"
 		graphics
 		[
 			x	225.68989672658307
@@ -6505,6 +7041,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Avalon"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6518,6 +7055,7 @@ graph
 	node
 	[
 		id	272
+		label	"Sector Avalon"
 		graphics
 		[
 			x	26.868003909111792
@@ -6535,6 +7073,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Avalon"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6549,6 +7088,7 @@ graph
 	node
 	[
 		id	273
+		label	"Paladin"
 		graphics
 		[
 			x	35.597444190705176
@@ -6561,6 +7101,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Paladin"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6571,6 +7112,7 @@ graph
 	node
 	[
 		id	274
+		label	"Camelot"
 		graphics
 		[
 			x	-35.30656635874533
@@ -6583,6 +7125,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Camelot"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6593,6 +7136,7 @@ graph
 	node
 	[
 		id	275
+		label	"Avalon"
 		graphics
 		[
 			x	93.03866792696891
@@ -6605,6 +7149,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Avalon"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6615,6 +7160,7 @@ graph
 	node
 	[
 		id	276
+		label	"Merlin"
 		graphics
 		[
 			x	63.03866792696891
@@ -6627,6 +7173,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Merlin"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6637,6 +7184,7 @@ graph
 	node
 	[
 		id	277
+		label	"Sector Victoria"
 		graphics
 		[
 			x	269.7309693592606
@@ -6654,6 +7202,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Victoria"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6668,6 +7217,7 @@ graph
 	node
 	[
 		id	278
+		label	"Victoria"
 		graphics
 		[
 			x	355.14900716145837
@@ -6680,6 +7230,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Victoria"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6690,8 +7241,7 @@ graph
 	node
 	[
 		id	279
-		label	"Endeavour"
-		graphics
+		label	"Endeavour"		graphics
 		[
 			x	250.61849488105878
 			y	-447.1559083962448
@@ -6703,8 +7253,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Endeavour"
-			color	"#FFFFFF"
+			text	"Endeavour"			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -6714,6 +7263,7 @@ graph
 	node
 	[
 		id	280
+		label	"Hawkwood"
 		graphics
 		[
 			x	299.5721081623088
@@ -6726,6 +7276,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Hawkwood"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6736,6 +7287,7 @@ graph
 	node
 	[
 		id	281
+		label	"Garrison"
 		graphics
 		[
 			x	196.47951554621278
@@ -6748,6 +7300,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Garrison"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6758,6 +7311,7 @@ graph
 	node
 	[
 		id	282
+		label	"Sector Caliburn"
 		graphics
 		[
 			x	275.65038359471487
@@ -6775,6 +7329,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Caliburn"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6789,6 +7344,7 @@ graph
 	node
 	[
 		id	283
+		label	"Caliburn"
 		graphics
 		[
 			x	197.62973139424918
@@ -6801,6 +7357,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Caliburn"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6811,6 +7368,7 @@ graph
 	node
 	[
 		id	284
+		label	"Greywood"
 		graphics
 		[
 			x	284.3824802603452
@@ -6823,6 +7381,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Greywood"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6833,6 +7392,7 @@ graph
 	node
 	[
 		id	285
+		label	"Mary's Star"
 		graphics
 		[
 			x	345.8663482951806
@@ -6845,6 +7405,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Mary's Star"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6855,6 +7416,7 @@ graph
 	node
 	[
 		id	286
+		label	"Sector Galahad"
 		graphics
 		[
 			x	85.48893736549914
@@ -6872,6 +7434,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Galahad"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6886,6 +7449,7 @@ graph
 	node
 	[
 		id	287
+		label	"Shiverlight"
 		graphics
 		[
 			x	50.597444190705176
@@ -6898,6 +7462,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Shiverlight"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6908,6 +7473,7 @@ graph
 	node
 	[
 		id	288
+		label	"Galahad"
 		graphics
 		[
 			x	125.7095321027931
@@ -6920,6 +7486,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Galahad"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6930,6 +7497,7 @@ graph
 	node
 	[
 		id	289
+		label	"Virtue"
 		graphics
 		[
 			x	125.7095321027931
@@ -6942,6 +7510,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Virtue"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -6952,6 +7521,7 @@ graph
 	node
 	[
 		id	290
+		label	"Sector Nelson"
 		graphics
 		[
 			x	8.558417061584322
@@ -6969,6 +7539,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Nelson"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -6983,6 +7554,7 @@ graph
 	node
 	[
 		id	291
+		label	"Nelson"
 		graphics
 		[
 			x	35.597444190705176
@@ -6995,6 +7567,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nelson"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -7005,6 +7578,7 @@ graph
 	node
 	[
 		id	292
+		label	"Chalice"
 		graphics
 		[
 			x	79.66320243246344
@@ -7017,6 +7591,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Chalice"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -7027,6 +7602,7 @@ graph
 	node
 	[
 		id	293
+		label	"Sherwood"
 		graphics
 		[
 			x	-55.53855580929479
@@ -7039,6 +7615,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sherwood"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -7049,6 +7626,7 @@ graph
 	node
 	[
 		id	294
+		label	"Sector Lancelot"
 		graphics
 		[
 			x	374.8213494125619
@@ -7066,6 +7644,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Lancelot"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7080,6 +7659,7 @@ graph
 	node
 	[
 		id	295
+		label	"Numenor"
 		graphics
 		[
 			x	303.8231458737349
@@ -7092,6 +7672,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Numenor"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -7102,6 +7683,7 @@ graph
 	node
 	[
 		id	296
+		label	"Henry's Star"
 		graphics
 		[
 			x	390.9531678517568
@@ -7114,6 +7696,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Henry's Star"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -7124,6 +7707,7 @@ graph
 	node
 	[
 		id	297
+		label	"Lancelot"
 		graphics
 		[
 			x	346.8874096099986
@@ -7136,6 +7720,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Lancelot"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -7146,6 +7731,7 @@ graph
 	node
 	[
 		id	298
+		label	"Robinson"
 		graphics
 		[
 			x	445.1457248263889
@@ -7158,6 +7744,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Robinson"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -7168,6 +7755,7 @@ graph
 	node
 	[
 		id	299
+		label	"Sector Alfred"
 		graphics
 		[
 			x	498.2567281687109
@@ -7185,6 +7773,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Alfred"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7199,6 +7788,7 @@ graph
 	node
 	[
 		id	300
+		label	"Alfred"
 		graphics
 		[
 			x	518.2620992624609
@@ -7211,6 +7801,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Alfred"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -7221,6 +7812,7 @@ graph
 	node
 	[
 		id	301
+		label	"Etherland"
 		graphics
 		[
 			x	488.2620992624609
@@ -7233,6 +7825,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Etherland"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -7243,6 +7836,7 @@ graph
 	node
 	[
 		id	302
+		label	"Tarka"
 		graphics
 		[
 			x	1137.3569269924376
@@ -7260,6 +7854,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tarka"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7273,6 +7868,7 @@ graph
 	node
 	[
 		id	303
+		label	"Sector Talon"
 		graphics
 		[
 			x	718.9995838143204
@@ -7290,6 +7886,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Talon"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7304,6 +7901,7 @@ graph
 	node
 	[
 		id	304
+		label	"Ksora "
 		graphics
 		[
 			x	711.9891222758588
@@ -7316,6 +7914,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ksora "
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7325,6 +7924,7 @@ graph
 	node
 	[
 		id	305
+		label	"Oran"
 		graphics
 		[
 			x	653.9024409571775
@@ -7337,6 +7937,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Oran"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7346,6 +7947,7 @@ graph
 	node
 	[
 		id	306
+		label	"Talon"
 		graphics
 		[
 			x	784.0967266714632
@@ -7358,6 +7960,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Talon"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7367,6 +7970,7 @@ graph
 	node
 	[
 		id	307
+		label	"Fezzan"
 		graphics
 		[
 			x	676.6884765625
@@ -7379,6 +7983,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Fezzan"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7388,6 +7993,7 @@ graph
 	node
 	[
 		id	308
+		label	"Sector Yeni Istanbul"
 		graphics
 		[
 			x	1036.4992598701867
@@ -7405,6 +8011,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Yeni Istanbul"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7419,6 +8026,7 @@ graph
 	node
 	[
 		id	309
+		label	"Madaar Shaadhdh"
 		graphics
 		[
 			x	952.3478035945401
@@ -7431,6 +8039,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Madaar Shaadhdh"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7440,6 +8049,7 @@ graph
 	node
 	[
 		id	310
+		label	"Unnati"
 		graphics
 		[
 			x	1142.631759638496
@@ -7452,6 +8062,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Unnati"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7461,6 +8072,7 @@ graph
 	node
 	[
 		id	311
+		label	"Porfo&#x2be;ad"
 		graphics
 		[
 			x	1082.5420893088258
@@ -7473,6 +8085,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Porfo&#x2be;ad"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7482,6 +8095,7 @@ graph
 	node
 	[
 		id	312
+		label	"Porsa&#x2bf;id"
 		graphics
 		[
 			x	1147.6800130208333
@@ -7494,6 +8108,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Porsa&#x2bf;id"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7503,6 +8118,7 @@ graph
 	node
 	[
 		id	313
+		label	"Yeni Istanbul"
 		graphics
 		[
 			x	1027.459891506628
@@ -7515,6 +8131,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Yeni Istanbul"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7524,6 +8141,7 @@ graph
 	node
 	[
 		id	314
+		label	"Sector Tarka"
 		graphics
 		[
 			x	1252.8229913990363
@@ -7541,6 +8159,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Tarka"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7555,6 +8174,7 @@ graph
 	node
 	[
 		id	315
+		label	"Tarka"
 		graphics
 		[
 			x	1288.8499574406937
@@ -7567,6 +8187,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tarka"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7576,6 +8197,7 @@ graph
 	node
 	[
 		id	316
+		label	"Marrakesh al-Jadiida"
 		graphics
 		[
 			x	1220.0995423560048
@@ -7588,6 +8210,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Marrakesh al-Jadiida"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7597,6 +8220,7 @@ graph
 	node
 	[
 		id	317
+		label	"Al-dabaran"
 		graphics
 		[
 			x	1311.8843310670677
@@ -7609,6 +8233,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Al-dabaran"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7618,6 +8243,7 @@ graph
 	node
 	[
 		id	318
+		label	"Sector Qoqnoos"
 		graphics
 		[
 			x	1346.003542059817
@@ -7635,6 +8261,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Qoqnoos"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7649,6 +8276,7 @@ graph
 	node
 	[
 		id	319
+		label	"Omid"
 		graphics
 		[
 			x	1331.4094469834095
@@ -7661,6 +8289,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Omid"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7670,6 +8299,7 @@ graph
 	node
 	[
 		id	320
+		label	"Qoqnoos"
 		graphics
 		[
 			x	1304.1952454810048
@@ -7682,6 +8312,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Qoqnoos"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7691,6 +8322,7 @@ graph
 	node
 	[
 		id	321
+		label	"Ushirikiano"
 		graphics
 		[
 			x	1382.485666763629
@@ -7703,6 +8335,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ushirikiano"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7712,6 +8345,7 @@ graph
 	node
 	[
 		id	322
+		label	"Sector Mandela"
 		graphics
 		[
 			x	1553.7331782322303
@@ -7729,6 +8363,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Mandela"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7743,6 +8378,7 @@ graph
 	node
 	[
 		id	323
+		label	"Mohamud"
 		graphics
 		[
 			x	1557.4284045649508
@@ -7755,6 +8391,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Mohamud"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7764,6 +8401,7 @@ graph
 	node
 	[
 		id	324
+		label	"Mandela"
 		graphics
 		[
 			x	1546.3729128370096
@@ -7776,6 +8414,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Mandela"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7785,6 +8424,7 @@ graph
 	node
 	[
 		id	325
+		label	"Sector New Lusaka"
 		graphics
 		[
 			x	1385.4542341055499
@@ -7802,6 +8442,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector New Lusaka"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7816,6 +8457,7 @@ graph
 	node
 	[
 		id	326
+		label	"Madeira al-Jadiida"
 		graphics
 		[
 			x	1331.4094469834095
@@ -7828,6 +8470,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Madeira al-Jadiida"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7837,6 +8480,7 @@ graph
 	node
 	[
 		id	327
+		label	"Kaksa ki vismata'em"
 		graphics
 		[
 			x	1434.0292946651903
@@ -7849,6 +8493,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Kaksa ki vismata'em"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7858,6 +8503,7 @@ graph
 	node
 	[
 		id	328
+		label	"New Lusaka"
 		graphics
 		[
 			x	1354.4438206097834
@@ -7870,6 +8516,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"New Lusaka"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7879,6 +8526,7 @@ graph
 	node
 	[
 		id	329
+		label	"Sector Dhartvir"
 		graphics
 		[
 			x	1578.6021377443872
@@ -7896,6 +8544,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Dhartvir"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7910,6 +8559,7 @@ graph
 	node
 	[
 		id	330
+		label	"Dhartvir"
 		graphics
 		[
 			x	1542.3850499610767
@@ -7922,6 +8572,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Dhartvir"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7931,6 +8582,7 @@ graph
 	node
 	[
 		id	331
+		label	"Dharmvir"
 		graphics
 		[
 			x	1611.4881708401977
@@ -7943,6 +8595,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Dharmvir"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -7952,6 +8605,7 @@ graph
 	node
 	[
 		id	332
+		label	"Xin Zizhiqu"
 		graphics
 		[
 			x	31.206713469832607
@@ -7969,6 +8623,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Xin Zizhiqu"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -7982,6 +8637,7 @@ graph
 	node
 	[
 		id	333
+		label	"Sector Yingshi"
 		graphics
 		[
 			x	103.04492506638076
@@ -7999,6 +8655,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Yingshi"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8013,6 +8670,7 @@ graph
 	node
 	[
 		id	334
+		label	"Yingshi"
 		graphics
 		[
 			x	78.54248366013076
@@ -8025,6 +8683,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Yingshi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8034,6 +8693,7 @@ graph
 	node
 	[
 		id	335
+		label	"Ghuanghai"
 		graphics
 		[
 			x	151.54248366013076
@@ -8046,6 +8706,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Ghuanghai"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8055,6 +8716,7 @@ graph
 	node
 	[
 		id	336
+		label	"Youfeng"
 		graphics
 		[
 			x	47.542483660130756
@@ -8067,6 +8729,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Youfeng"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8076,6 +8739,7 @@ graph
 	node
 	[
 		id	337
+		label	"Sector Hang Seng"
 		graphics
 		[
 			x	-31.93224128274352
@@ -8093,6 +8757,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Hang Seng"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8107,6 +8772,7 @@ graph
 	node
 	[
 		id	338
+		label	"Tiantiang"
 		graphics
 		[
 			x	-84.55317717907471
@@ -8119,6 +8785,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tiantiang"
 			color	"#339966"
 			fontSize	12
 			fontName	"Dialog"
@@ -8129,8 +8796,7 @@ graph
 	node
 	[
 		id	339
-		label	"Xianggang Xin"
-		graphics
+		label	"Xianggang Xin"		graphics
 		[
 			x	7.3410383635876855
 			y	1520.3083610071635
@@ -8142,8 +8808,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Xianggang Xin"
-			color	"#339966"
+			text	"Xianggang Xin"			color	"#339966"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8153,6 +8818,7 @@ graph
 	node
 	[
 		id	340
+		label	"Leyuan"
 		graphics
 		[
 			x	-80.55317717907471
@@ -8165,6 +8831,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Leyuan"
 			color	"#339966"
 			fontSize	12
 			fontName	"Dialog"
@@ -8175,6 +8842,7 @@ graph
 	node
 	[
 		id	341
+		label	"Jiayuan"
 		graphics
 		[
 			x	2.3938591031367196
@@ -8187,6 +8855,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Jiayuan"
 			color	"#339966"
 			fontSize	12
 			fontName	"Dialog"
@@ -8197,6 +8866,7 @@ graph
 	node
 	[
 		id	342
+		label	"Sector Qiangying"
 		graphics
 		[
 			x	-307.49444128021844
@@ -8214,6 +8884,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Qiangying"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8228,6 +8899,7 @@ graph
 	node
 	[
 		id	343
+		label	"Liuyang"
 		graphics
 		[
 			x	-306.40831801470586
@@ -8240,6 +8912,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Liuyang"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8249,6 +8922,7 @@ graph
 	node
 	[
 		id	344
+		label	"Youli"
 		graphics
 		[
 			x	-231.3525213503369
@@ -8261,6 +8935,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Youli"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -8271,6 +8946,7 @@ graph
 	node
 	[
 		id	345
+		label	"Qiangying"
 		graphics
 		[
 			x	-395.593259858231
@@ -8283,6 +8959,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Qiangying"
 			color	"#000080"
 			fontSize	12
 			fontName	"Dialog"
@@ -8293,6 +8970,7 @@ graph
 	node
 	[
 		id	346
+		label	"Sector Xin Qin"
 		graphics
 		[
 			x	202.07802734375008
@@ -8310,6 +8988,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Xin Qin"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8324,6 +9003,7 @@ graph
 	node
 	[
 		id	347
+		label	"Yang Wenli"
 		graphics
 		[
 			x	224.24306640625008
@@ -8336,6 +9016,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Yang Wenli"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8345,6 +9026,7 @@ graph
 	node
 	[
 		id	348
+		label	"Chi Tianliang"
 		graphics
 		[
 			x	130.24306640625008
@@ -8357,6 +9039,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Chi Tianliang"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8366,8 +9049,7 @@ graph
 	node
 	[
 		id	349
-		label	"Xueyuan
-"
+		label	"Xueyuan"
 		graphics
 		[
 			x	284.2430664062501
@@ -8380,8 +9062,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Xueyuan
-"
+			text	"Xueyuan"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8391,6 +9072,7 @@ graph
 	node
 	[
 		id	350
+		label	"Hexi"
 		graphics
 		[
 			x	206.24306640625008
@@ -8403,6 +9085,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Hexi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8412,6 +9095,7 @@ graph
 	node
 	[
 		id	351
+		label	"Xin Qin"
 		graphics
 		[
 			x	194.24306640625008
@@ -8424,6 +9108,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Xin Qin"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8433,6 +9118,7 @@ graph
 	node
 	[
 		id	352
+		label	"Sector Deng biao"
 		graphics
 		[
 			x	308.88379225388076
@@ -8450,6 +9136,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Deng biao"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8464,6 +9151,7 @@ graph
 	node
 	[
 		id	353
+		label	"Niú cúnlán"
 		graphics
 		[
 			x	264.54248366013076
@@ -8476,6 +9164,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Niú cúnlán"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8485,8 +9174,7 @@ graph
 	node
 	[
 		id	354
-		label	"Deng Biao"
-		graphics
+		label	"Deng Biao"		graphics
 		[
 			x	296.54248366013076
 			y	1427.6797385620916
@@ -8498,6 +9186,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"D&#x113;ng bi&#x101;o"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8507,8 +9196,7 @@ graph
 	node
 	[
 		id	355
-		label	"Gaoda de Shan"
-		graphics
+		label	"Gaoda de Shan"		graphics
 		[
 			x	340.54248366013076
 			y	1364.6797385620916
@@ -8520,8 +9208,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Gaoda de Shan"
-			fontSize	12
+			text	"Gaoda de Shan"			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
@@ -8530,6 +9217,7 @@ graph
 	node
 	[
 		id	356
+		label	"Sector Wei"
 		graphics
 		[
 			x	406.54248366013076
@@ -8547,6 +9235,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Wei"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8561,8 +9250,7 @@ graph
 	node
 	[
 		id	357
-		label	"Jiu Wanguan"
-		graphics
+		label	"Jiu Wanguan"		graphics
 		[
 			x	406.54248366013076
 			y	1478.6797385620916
@@ -8574,8 +9262,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Jiu Wanguan"
-			fontSize	12
+			text	"Jiu Wanguan"			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
@@ -8584,6 +9271,7 @@ graph
 	node
 	[
 		id	358
+		label	"Wei"
 		graphics
 		[
 			x	399.54248366013076
@@ -8596,6 +9284,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Wei"
 			color	"#808080"
 			fontSize	12
 			fontName	"Dialog"
@@ -8606,6 +9295,7 @@ graph
 	node
 	[
 		id	359
+		label	"Sector Wu Ren Zhi An"
 		graphics
 		[
 			x	-220.50333754595584
@@ -8623,6 +9313,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Wu Ren Zhi An"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8637,6 +9328,7 @@ graph
 	node
 	[
 		id	360
+		label	"Chen Pingyuan"
 		graphics
 		[
 			x	-265.38878676470586
@@ -8649,6 +9341,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Chen Pingyuan"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8658,6 +9351,7 @@ graph
 	node
 	[
 		id	361
+		label	"Yonghengde Anbian"
 		graphics
 		[
 			x	-215.2887867647058
@@ -8670,6 +9364,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Yonghengde Anbian"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8679,8 +9374,7 @@ graph
 	node
 	[
 		id	362
-		label	"Anquan Gang"
-		graphics
+		label	"Anquan Gang"		graphics
 		[
 			x	-170.2887867647058
 			y	1621.0562034058416
@@ -8692,8 +9386,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Anquan Gang"
-			fontSize	12
+			text	"Anquan Gang"			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
@@ -8702,8 +9395,7 @@ graph
 	node
 	[
 		id	363
-		label	"Da Dianhai"
-		graphics
+		label	"Da Dianhai"		graphics
 		[
 			x	-170.2887867647058
 			y	1749.8062034058416
@@ -8715,8 +9407,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Da Dianhai"
-			color	"#993300"
+			text	"Da Dianhai"			color	"#993300"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8726,6 +9417,7 @@ graph
 	node
 	[
 		id	364
+		label	"Sector Macau"
 		graphics
 		[
 			x	-17.11601881638063
@@ -8743,6 +9435,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Macau"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8757,6 +9450,7 @@ graph
 	node
 	[
 		id	365
+		label	"Macau"
 		graphics
 		[
 			x	14.943649152369403
@@ -8769,6 +9463,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Macau"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8778,6 +9473,7 @@ graph
 	node
 	[
 		id	366
+		label	"Pu-erh "
 		graphics
 		[
 			x	-66.65635084763062
@@ -8790,6 +9486,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Pu-erh "
 			color	"#339966"
 			fontSize	12
 			fontName	"Dialog"
@@ -8800,6 +9497,7 @@ graph
 	node
 	[
 		id	367
+		label	"Kantebolei"
 		graphics
 		[
 			x	23.743649152369358
@@ -8812,6 +9510,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Kantebolei"
 			color	"#993366"
 			fontSize	12
 			fontName	"Dialog"
@@ -8822,6 +9521,7 @@ graph
 	node
 	[
 		id	368
+		label	"Sector Tian Yuan"
 		graphics
 		[
 			x	226.7101047666464
@@ -8839,6 +9539,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Tian Yuan"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8853,6 +9554,7 @@ graph
 	node
 	[
 		id	369
+		label	"Lasa"
 		graphics
 		[
 			x	128.93969461039637
@@ -8865,6 +9567,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Lasa"
 			color	"#993366"
 			fontSize	12
 			fontName	"Dialog"
@@ -8875,6 +9578,7 @@ graph
 	node
 	[
 		id	370
+		label	"Yulin"
 		graphics
 		[
 			x	236.24306640625008
@@ -8887,6 +9591,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Yulin"
 			color	"#993366"
 			fontSize	12
 			fontName	"Dialog"
@@ -8897,6 +9602,7 @@ graph
 	node
 	[
 		id	371
+		label	"Yesushan"
 		graphics
 		[
 			x	188.93969461039637
@@ -8909,6 +9615,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Yesushan"
 			color	"#993366"
 			fontSize	12
 			fontName	"Dialog"
@@ -8919,6 +9626,7 @@ graph
 	node
 	[
 		id	372
+		label	"Tian Yuan"
 		graphics
 		[
 			x	312.1396946103964
@@ -8931,6 +9639,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tian Yuan"
 			color	"#993366"
 			fontSize	12
 			fontName	"Dialog"
@@ -8941,6 +9650,7 @@ graph
 	node
 	[
 		id	373
+		label	"Sector Hu&#x101;"
 		graphics
 		[
 			x	418.6722141416463
@@ -8958,6 +9668,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Hu&#x101;"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -8972,6 +9683,7 @@ graph
 	node
 	[
 		id	374
+		label	"Hu&#x101;"
 		graphics
 		[
 			x	410.5396946103963
@@ -8984,6 +9696,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Hu&#x101;"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -8993,8 +9706,7 @@ graph
 	node
 	[
 		id	375
-		label	"Fanxing Hai"
-		graphics
+		label	"Fanxing Hai"		graphics
 		[
 			x	383.33969461039635
 			y	1721.8567092907467
@@ -9006,8 +9718,7 @@ graph
 		]
 		LabelGraphics
 		[
-			text	"Fanxing Hai"
-			fontSize	12
+			text	"Fanxing Hai"			fontSize	12
 			fontName	"Dialog"
 			model	"null"
 		]
@@ -9016,6 +9727,7 @@ graph
 	node
 	[
 		id	376
+		label	"Wanguan"
 		graphics
 		[
 			x	459.33969461039624
@@ -9028,6 +9740,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Wanguan"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -9037,6 +9750,7 @@ graph
 	node
 	[
 		id	377
+		label	"Xingjie"
 		graphics
 		[
 			x	282.3880412125788
@@ -9054,6 +9768,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Xingjie"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9067,6 +9782,7 @@ graph
 	node
 	[
 		id	378
+		label	"Sector Baihu"
 		graphics
 		[
 			x	32.54908325484658
@@ -9084,6 +9800,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Baihu"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9098,6 +9815,7 @@ graph
 	node
 	[
 		id	379
+		label	"Baihu"
 		graphics
 		[
 			x	101.11260910313672
@@ -9110,6 +9828,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Baihu"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9120,6 +9839,7 @@ graph
 	node
 	[
 		id	380
+		label	"Liu Yang"
 		graphics
 		[
 			x	18.08038254063672
@@ -9132,6 +9852,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Liu Yang"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9142,6 +9863,7 @@ graph
 	node
 	[
 		id	381
+		label	"Liu Wang"
 		graphics
 		[
 			x	65.73434244791679
@@ -9154,6 +9876,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Liu Wang"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9164,6 +9887,7 @@ graph
 	node
 	[
 		id	382
+		label	"Sector Zhuque"
 		graphics
 		[
 			x	527.8776994977679
@@ -9181,6 +9905,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Zhuque"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9195,6 +9920,7 @@ graph
 	node
 	[
 		id	383
+		label	"Zhuque"
 		graphics
 		[
 			x	459.96878022693454
@@ -9207,6 +9933,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Zhuque"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9217,6 +9944,7 @@ graph
 	node
 	[
 		id	384
+		label	"Zhang Xiaoguang"
 		graphics
 		[
 			x	568.7631812686012
@@ -9229,6 +9957,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Zhang Xiaoguang"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9239,6 +9968,7 @@ graph
 	node
 	[
 		id	385
+		label	"Wang Yaping"
 		graphics
 		[
 			x	508.7631812686012
@@ -9251,6 +9981,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Wang Yaping"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9261,6 +9992,7 @@ graph
 	node
 	[
 		id	386
+		label	"Sector Qinglong"
 		graphics
 		[
 			x	469.88509114583337
@@ -9278,6 +10010,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Qinglong"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9292,6 +10025,7 @@ graph
 	node
 	[
 		id	387
+		label	"Qinglong"
 		graphics
 		[
 			x	517.0
@@ -9304,6 +10038,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Qinglong"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9314,6 +10049,7 @@ graph
 	node
 	[
 		id	388
+		label	"Fei Junlong"
 		graphics
 		[
 			x	429.7721354166667
@@ -9326,6 +10062,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Fei Junlong"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9336,6 +10073,7 @@ graph
 	node
 	[
 		id	389
+		label	"Nie Haisheng"
 		graphics
 		[
 			x	481.3346354166667
@@ -9348,6 +10086,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nie Haisheng"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9358,6 +10097,7 @@ graph
 	node
 	[
 		id	390
+		label	"Sector Xuanwu"
 		graphics
 		[
 			x	90.52365555108767
@@ -9375,6 +10115,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Xuanwu"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9389,6 +10130,7 @@ graph
 	node
 	[
 		id	391
+		label	"Xuanwu"
 		graphics
 		[
 			x	31.85804682712933
@@ -9401,6 +10143,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Xuanwu"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9411,6 +10154,7 @@ graph
 	node
 	[
 		id	392
+		label	"Jing Haipeng"
 		graphics
 		[
 			x	158.95554031671264
@@ -9423,6 +10167,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Jing Haipeng"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9433,6 +10178,7 @@ graph
 	node
 	[
 		id	393
+		label	"Liu Boming"
 		graphics
 		[
 			x	171.98304682712933
@@ -9445,6 +10191,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Liu Boming"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9455,6 +10202,7 @@ graph
 	node
 	[
 		id	394
+		label	"Zhai Zhigang"
 		graphics
 		[
 			x	18.51917963962933
@@ -9467,6 +10215,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Zhai Zhigang"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9477,6 +10226,7 @@ graph
 	node
 	[
 		id	395
+		label	"Sector Huangjing"
 		graphics
 		[
 			x	301.1815429687501
@@ -9494,6 +10244,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Huangjing"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9508,6 +10259,7 @@ graph
 	node
 	[
 		id	396
+		label	"Huangjing"
 		graphics
 		[
 			x	286.0174804687501
@@ -9520,6 +10272,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Huangjing"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9530,6 +10283,7 @@ graph
 	node
 	[
 		id	397
+		label	"Huanglong"
 		graphics
 		[
 			x	227.26748046875008
@@ -9542,6 +10296,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Huanglong"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9552,6 +10307,7 @@ graph
 	node
 	[
 		id	398
+		label	"Yang Liwei"
 		graphics
 		[
 			x	374.7674804687501
@@ -9564,6 +10320,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Yang Liwei"
 			color	"#FFFF00"
 			fontSize	12
 			fontName	"Dialog"
@@ -9574,8 +10331,7 @@ graph
 	node
 	[
 		id	399
-		label	"Tiantiang"
-		graphics
+		label	"Tiantiang"		graphics
 		[
 			x	774.6476585979445
 			y	1283.4853794870814
@@ -9592,6 +10348,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Bianjiang"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9605,6 +10362,7 @@ graph
 	node
 	[
 		id	400
+		label	"Sector Guangdong"
 		graphics
 		[
 			x	670.3659656343007
@@ -9622,6 +10380,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Guangdong"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9636,6 +10395,7 @@ graph
 	node
 	[
 		id	401
+		label	"Tsim Sha Tsui"
 		graphics
 		[
 			x	649.8659656343007
@@ -9648,6 +10408,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tsim Sha Tsui"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9658,6 +10419,7 @@ graph
 	node
 	[
 		id	402
+		label	"Quanzhou"
 		graphics
 		[
 			x	601.8659656343007
@@ -9670,6 +10432,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Quanzhou"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9680,6 +10443,7 @@ graph
 	node
 	[
 		id	403
+		label	"Guanzhou"
 		graphics
 		[
 			x	738.8659656343007
@@ -9692,6 +10456,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Guanzhou"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9702,6 +10467,7 @@ graph
 	node
 	[
 		id	404
+		label	"Sector Yunnan"
 		graphics
 		[
 			x	750.936715581415
@@ -9719,6 +10485,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Yunnan"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9733,6 +10500,7 @@ graph
 	node
 	[
 		id	405
+		label	"Wuha"
 		graphics
 		[
 			x	724.8659656343007
@@ -9745,6 +10513,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Wuha"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9755,6 +10524,7 @@ graph
 	node
 	[
 		id	406
+		label	"Kunming"
 		graphics
 		[
 			x	769.0006295910293
@@ -9767,6 +10537,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Kunming"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9777,6 +10548,7 @@ graph
 	node
 	[
 		id	407
+		label	"Sector Sichuan"
 		graphics
 		[
 			x	983.3688953218007
@@ -9794,6 +10566,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Sichuan"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9808,6 +10581,7 @@ graph
 	node
 	[
 		id	408
+		label	"Bolivar Fangyuqu"
 		graphics
 		[
 			x	1001.8659656343006
@@ -9820,6 +10594,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Bolivar Fangyuqu"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9830,6 +10605,7 @@ graph
 	node
 	[
 		id	409
+		label	"Chengdu"
 		graphics
 		[
 			x	941.8659656343006
@@ -9842,6 +10618,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Chengdu"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9852,6 +10629,7 @@ graph
 	node
 	[
 		id	410
+		label	"Xie Lanzhou"
 		graphics
 		[
 			x	1015.8659656343006
@@ -9864,6 +10642,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Xie Lanzhou"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9874,6 +10653,7 @@ graph
 	node
 	[
 		id	411
+		label	"Sector Shaanxi"
 		graphics
 		[
 			x	938.0290452346303
@@ -9891,6 +10671,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Shaanxi"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -9905,6 +10686,7 @@ graph
 	node
 	[
 		id	412
+		label	"Nanchong"
 		graphics
 		[
 			x	872.2707444533804
@@ -9917,6 +10699,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nanchong"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9927,6 +10710,7 @@ graph
 	node
 	[
 		id	413
+		label	"Fangqu Liehuzuo"
 		graphics
 		[
 			x	984.7707444533804
@@ -9939,6 +10723,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Fangqu Liehuzuo"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9949,6 +10734,7 @@ graph
 	node
 	[
 		id	414
+		label	"Xie Xi'an"
 		graphics
 		[
 			x	910.7707444533804
@@ -9961,6 +10747,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Xie Xi'an"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9971,6 +10758,7 @@ graph
 	node
 	[
 		id	415
+		label	"Chongqing"
 		graphics
 		[
 			x	950.7707444533804
@@ -9983,6 +10771,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Chongqing"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -9993,6 +10782,7 @@ graph
 	node
 	[
 		id	416
+		label	"ZhengZhou"
 		graphics
 		[
 			x	966.7707444533804
@@ -10005,6 +10795,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"ZhengZhou"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -10015,6 +10806,7 @@ graph
 	node
 	[
 		id	417
+		label	"Sector Heibei "
 		graphics
 		[
 			x	753.7023914155507
@@ -10032,6 +10824,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Heibei "
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10046,6 +10839,7 @@ graph
 	node
 	[
 		id	418
+		label	"Tianjin"
 		graphics
 		[
 			x	802.8659656343007
@@ -10058,6 +10852,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Tianjin"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -10068,6 +10863,7 @@ graph
 	node
 	[
 		id	419
+		label	"Xie Beijing"
 		graphics
 		[
 			x	705.8659656343007
@@ -10080,6 +10876,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Xie Beijing"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -10090,6 +10887,7 @@ graph
 	node
 	[
 		id	420
+		label	"Shenyang"
 		graphics
 		[
 			x	802.8659656343007
@@ -10102,6 +10900,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Shenyang"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -10112,6 +10911,7 @@ graph
 	node
 	[
 		id	421
+		label	"Sector Shanghai"
 		graphics
 		[
 			x	570.4826195354445
@@ -10129,6 +10929,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Sector Shanghai"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10143,6 +10944,7 @@ graph
 	node
 	[
 		id	422
+		label	"Hangzhou"
 		graphics
 		[
 			x	594.8659656343007
@@ -10155,6 +10957,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Hangzhou"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -10165,6 +10968,7 @@ graph
 	node
 	[
 		id	423
+		label	"Shanghai"
 		graphics
 		[
 			x	525.4254453115884
@@ -10177,6 +10981,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Shanghai"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -10187,6 +10992,7 @@ graph
 	node
 	[
 		id	424
+		label	"Nanjing"
 		graphics
 		[
 			x	585.4254453115883
@@ -10199,6 +11005,7 @@ graph
 		]
 		LabelGraphics
 		[
+			text	"Nanjing"
 			color	"#008080"
 			fontSize	12
 			fontName	"Dialog"
@@ -10209,6 +11016,7 @@ graph
 	node
 	[
 		id	425
+		label	"Fangqu
 Huoyan Xingyun"
 		graphics
 		[
@@ -10222,6 +11030,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Fangqu
 Huoyan Xingyun"
 			color	"#008080"
 			fontSize	12
@@ -10233,6 +11042,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	426
+		label	"Orion Reach"
 		graphics
 		[
 			x	1374.6505974580355
@@ -10250,6 +11060,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Orion Reach"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10263,6 +11074,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	427
+		label	"Sector Ortega-Gaona"
 		graphics
 		[
 			x	1241.092608460513
@@ -10280,6 +11092,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Sector Ortega-Gaona(PROV1100) "
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10294,6 +11107,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	428
+		label	"Nueva Galicia
 (PROV1101)"
 		graphics
 		[
@@ -10307,6 +11121,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Nueva Galicia
 (PROV1101)"
 			fontSize	12
 			fontName	"Dialog"
@@ -10317,6 +11132,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	429
+		label	"Nueva Valencia
 (PROV1102)"
 		graphics
 		[
@@ -10330,6 +11146,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Nueva Valencia
 (PROV1102)"
 			fontSize	12
 			fontName	"Dialog"
@@ -10340,6 +11157,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	430
+		label	"Suerte
 (PROV1103)"
 		graphics
 		[
@@ -10353,6 +11171,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Suerte
 (PROV1103)"
 			fontSize	12
 			fontName	"Dialog"
@@ -10363,6 +11182,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	431
+		label	"Sector Lebedev"
 		graphics
 		[
 			x	1319.2916379989304
@@ -10380,6 +11200,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Sector Lebedev"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10394,6 +11215,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	432
+		label	"Meissa"
 		graphics
 		[
 			x	1283.755323516096
@@ -10406,6 +11228,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Meissa"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10415,6 +11238,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	433
+		label	"Lebedev"
 		graphics
 		[
 			x	1350.8113509192647
@@ -10427,6 +11251,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Lebedev"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10436,6 +11261,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	434
+		label	"Sector Rigel"
 		graphics
 		[
 			x	1379.9442836355915
@@ -10453,6 +11279,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Sector Rigel"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10467,6 +11294,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	435
+		label	"Mintaka"
 		graphics
 		[
 			x	1331.4476418864908
@@ -10479,6 +11307,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Mintaka"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10488,6 +11317,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	436
+		label	"Genciana"
 		graphics
 		[
 			x	1352.294964028777
@@ -10500,6 +11330,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Genciana"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10509,6 +11340,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	437
+		label	"Saiph"
 		graphics
 		[
 			x	1306.4308553157473
@@ -10521,6 +11353,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Saiph"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10530,6 +11363,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	438
+		label	"Anilam"
 		graphics
 		[
 			x	1422.1334932054356
@@ -10542,6 +11376,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Anilam"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10551,6 +11386,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	439
+		label	"Dorter"
 		graphics
 		[
 			x	1452.1334932054356
@@ -10563,6 +11399,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Dorter"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10572,6 +11409,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	440
+		label	"Rigel"
 		graphics
 		[
 			x	1452.1334932054356
@@ -10584,6 +11422,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Rigel"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10593,6 +11432,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	441
+		label	"Sector Bellatrix"
 		graphics
 		[
 			x	1518.8518510098174
@@ -10610,6 +11450,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Sector Bellatrix"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10624,6 +11465,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	442
+		label	"Bellatrix"
 		graphics
 		[
 			x	1537.2165659472423
@@ -10636,6 +11478,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Bellatrix"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10645,6 +11488,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	443
+		label	"Hailu"
 		graphics
 		[
 			x	1492.8201438848923
@@ -10657,6 +11501,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Hailu"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10666,6 +11511,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	444
+		label	"Sector Betelgeuse"
 		graphics
 		[
 			x	1133.511875387319
@@ -10683,6 +11529,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Sector Betelgeuse"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10697,6 +11544,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	445
+		label	"Betelgeuse"
 		graphics
 		[
 			x	1153.8578241751636
@@ -10709,6 +11557,7 @@ Huoyan Xingyun"
 		]
 		LabelGraphics
 		[
+			text	"Betelgeuse"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10718,6 +11567,7 @@ Huoyan Xingyun"
 	node
 	[
 		id	446
+		label	"Estrella
 Old Man"
 		graphics
 		[
@@ -10731,6 +11581,7 @@ Old Man"
 		]
 		LabelGraphics
 		[
+			text	"Estrella
 Old Man"
 			fontSize	12
 			fontName	"Dialog"
@@ -10741,6 +11592,7 @@ Old Man"
 	node
 	[
 		id	447
+		label	"Reposo de 
 Alquezar"
 		graphics
 		[
@@ -10754,6 +11606,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Reposo de 
 Alquezar"
 			fontSize	12
 			fontName	"Dialog"
@@ -10764,6 +11617,7 @@ Alquezar"
 	node
 	[
 		id	448
+		label	"Sector Edison"
 		graphics
 		[
 			x	1140.187168356069
@@ -10781,6 +11635,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Edison"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10795,6 +11650,7 @@ Alquezar"
 	node
 	[
 		id	449
+		label	"Bell"
 		graphics
 		[
 			x	1185.8812616751638
@@ -10807,6 +11663,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Bell"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10816,6 +11673,7 @@ Alquezar"
 	node
 	[
 		id	450
+		label	"Seldon"
 		graphics
 		[
 			x	1173.8309656619742
@@ -10828,6 +11686,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Seldon"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10837,6 +11696,7 @@ Alquezar"
 	node
 	[
 		id	451
+		label	"Warshawski"
 		graphics
 		[
 			x	1113.830965661974
@@ -10849,6 +11709,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Warshawski"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10858,6 +11719,7 @@ Alquezar"
 	node
 	[
 		id	452
+		label	"Fleming"
 		graphics
 		[
 			x	1110.8538367418873
@@ -10870,6 +11732,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Fleming"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -10879,6 +11742,7 @@ Alquezar"
 	node
 	[
 		id	453
+		label	"Sector Santiago"
 		graphics
 		[
 			x	1537.216565947242
@@ -10896,6 +11760,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Santiago"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -10910,6 +11775,7 @@ Alquezar"
 	node
 	[
 		id	454
+		label	"Barrayar
 (PROV1107)"
 		graphics
 		[
@@ -10923,6 +11789,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Barrayar
 (PROV1107)"
 			fontSize	12
 			fontName	"Dialog"
@@ -10933,6 +11800,7 @@ Alquezar"
 	node
 	[
 		id	455
+		label	"Sergyar
 (Prov1109)"
 		graphics
 		[
@@ -10946,6 +11814,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sergyar
 (Prov1109)"
 			fontSize	12
 			fontName	"Dialog"
@@ -10956,6 +11825,7 @@ Alquezar"
 	node
 	[
 		id	456
+		label	"Thimble
 (PROV1106)"
 		graphics
 		[
@@ -10969,6 +11839,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Thimble
 (PROV1106)"
 			fontSize	12
 			fontName	"Dialog"
@@ -10979,6 +11850,7 @@ Alquezar"
 	node
 	[
 		id	457
+		label	"Komarr
 (PROV1108)"
 		graphics
 		[
@@ -10992,6 +11864,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Komarr
 (PROV1108)"
 			fontSize	12
 			fontName	"Dialog"
@@ -11002,6 +11875,7 @@ Alquezar"
 	node
 	[
 		id	458
+		label	"Santiago
 (PROV1105)"
 		graphics
 		[
@@ -11015,6 +11889,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Santiago
 (PROV1105)"
 			fontSize	12
 			fontName	"Dialog"
@@ -11025,6 +11900,7 @@ Alquezar"
 	node
 	[
 		id	459
+		label	"Fire Nebula"
 		graphics
 		[
 			x	790.688446522716
@@ -11042,6 +11918,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Fire Nebula"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11055,6 +11932,7 @@ Alquezar"
 	node
 	[
 		id	460
+		label	"Sector Chui"
 		graphics
 		[
 			x	705.4133843695182
@@ -11072,6 +11950,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Chui"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11086,6 +11965,7 @@ Alquezar"
 	node
 	[
 		id	461
+		label	"FN-089"
 		graphics
 		[
 			x	657.4214765019218
@@ -11098,6 +11978,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"FN-089"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11108,6 +11989,7 @@ Alquezar"
 	node
 	[
 		id	462
+		label	"Chu&#xed;"
 		graphics
 		[
 			x	777.8145062121085
@@ -11120,6 +12002,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Chu&#xed;"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11130,6 +12013,7 @@ Alquezar"
 	node
 	[
 		id	463
+		label	"FN-122"
 		graphics
 		[
 			x	717.6179913570152
@@ -11142,6 +12026,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"FN-122"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11152,6 +12037,7 @@ Alquezar"
 	node
 	[
 		id	464
+		label	"Sector Shihai"
 		graphics
 		[
 			x	988.2770921096303
@@ -11169,6 +12055,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Shihai"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11183,6 +12070,7 @@ Alquezar"
 	node
 	[
 		id	465
+		label	"Shihai"
 		graphics
 		[
 			x	930.6099139597891
@@ -11195,6 +12083,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Shihai"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11205,6 +12094,7 @@ Alquezar"
 	node
 	[
 		id	466
+		label	"FN-071"
 		graphics
 		[
 			x	986.6100999221304
@@ -11217,6 +12107,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"FN-071"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11227,6 +12118,7 @@ Alquezar"
 	node
 	[
 		id	467
+		label	"Infierno"
 		graphics
 		[
 			x	1042.6102858844715
@@ -11239,6 +12131,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Infierno"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11249,6 +12142,7 @@ Alquezar"
 	node
 	[
 		id	468
+		label	"Sector Iserlohn"
 		graphics
 		[
 			x	552.6917924034777
@@ -11266,6 +12160,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Iserlohn"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11280,6 +12175,7 @@ Alquezar"
 	node
 	[
 		id	469
+		label	"FN-287"
 		graphics
 		[
 			x	493.1840279852755
@@ -11292,6 +12188,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"FN-287"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11302,6 +12199,7 @@ Alquezar"
 	node
 	[
 		id	470
+		label	"FN-331"
 		graphics
 		[
 			x	562.5150397873516
@@ -11314,6 +12212,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"FN-331"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11324,6 +12223,7 @@ Alquezar"
 	node
 	[
 		id	471
+		label	"Iserlohn"
 		graphics
 		[
 			x	531.9364213097277
@@ -11336,6 +12236,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Iserlohn"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11346,6 +12247,7 @@ Alquezar"
 	node
 	[
 		id	472
+		label	"FN-379"
 		graphics
 		[
 			x	612.19955682168
@@ -11358,6 +12260,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"FN-379"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11368,6 +12271,7 @@ Alquezar"
 	node
 	[
 		id	473
+		label	"Sector Hades"
 		graphics
 		[
 			x	1019.3276653224225
@@ -11385,6 +12289,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Hades"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11399,6 +12304,7 @@ Alquezar"
 	node
 	[
 		id	474
+		label	"FN-664"
 		graphics
 		[
 			x	977.0995436969718
@@ -11411,6 +12317,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"FN-664"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11421,6 +12328,7 @@ Alquezar"
 	node
 	[
 		id	475
+		label	"FN-940"
 		graphics
 		[
 			x	1054.8559509976565
@@ -11433,6 +12341,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"FN-940"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11443,6 +12352,7 @@ Alquezar"
 	node
 	[
 		id	476
+		label	"Hades"
 		graphics
 		[
 			x	947.7993796471886
@@ -11455,6 +12365,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Hades"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11465,6 +12376,7 @@ Alquezar"
 	node
 	[
 		id	477
+		label	"FN-1237"
 		graphics
 		[
 			x	1084.8559509976565
@@ -11477,6 +12389,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"FN-1237"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11487,6 +12400,7 @@ Alquezar"
 	node
 	[
 		id	478
+		label	"Sector Diyu"
 		graphics
 		[
 			x	805.4603846138741
@@ -11504,6 +12418,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Diyu"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11518,6 +12433,7 @@ Alquezar"
 	node
 	[
 		id	479
+		label	"Xiao Mei"
 		graphics
 		[
 			x	763.4651395805595
@@ -11530,6 +12446,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Xiao Mei"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11540,6 +12457,7 @@ Alquezar"
 	node
 	[
 		id	480
+		label	"Diyu"
 		graphics
 		[
 			x	857.7993796471886
@@ -11552,6 +12470,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Diyu"
 			color	"#00FFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -11562,6 +12481,7 @@ Alquezar"
 	node
 	[
 		id	481
+		label	"Orion Nebula"
 		graphics
 		[
 			x	1516.970801208399
@@ -11579,6 +12499,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Orion Nebula"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11592,6 +12513,7 @@ Alquezar"
 	node
 	[
 		id	482
+		label	"Mar del Tyken"
 		graphics
 		[
 			x	1250.8797771649524
@@ -11609,6 +12531,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Mar del Tyken"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11623,6 +12546,7 @@ Alquezar"
 	node
 	[
 		id	483
+		label	"ON-793"
 		graphics
 		[
 			x	1220.8797771649527
@@ -11635,6 +12559,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"ON-793"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11644,6 +12569,7 @@ Alquezar"
 	node
 	[
 		id	484
+		label	"ON-567"
 		graphics
 		[
 			x	1280.8797771649524
@@ -11656,6 +12582,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"ON-567"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11665,6 +12592,7 @@ Alquezar"
 	node
 	[
 		id	485
+		label	"Sector Sortelha"
 		graphics
 		[
 			x	1308.6464819100042
@@ -11682,6 +12610,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Sortelha"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11696,6 +12625,7 @@ Alquezar"
 	node
 	[
 		id	486
+		label	"ON-19"
 		graphics
 		[
 			x	1271.552686518077
@@ -11708,6 +12638,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"ON-19"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11717,6 +12648,7 @@ Alquezar"
 	node
 	[
 		id	487
+		label	"Sortelha"
 		graphics
 		[
 			x	1341.0644960519317
@@ -11729,6 +12661,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sortelha"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11738,6 +12671,7 @@ Alquezar"
 	node
 	[
 		id	488
+		label	"ON-47"
 		graphics
 		[
 			x	1271.552686518077
@@ -11750,6 +12684,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"ON-47"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11759,6 +12694,7 @@ Alquezar"
 	node
 	[
 		id	489
+		label	"La Forja de Dios"
 		graphics
 		[
 			x	1460.254805822643
@@ -11776,6 +12712,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"La Forja de Dios"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11790,6 +12727,7 @@ Alquezar"
 	node
 	[
 		id	490
+		label	"Yunque"
 		graphics
 		[
 			x	1410.6678134336269
@@ -11802,6 +12740,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Yunque"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11811,6 +12750,7 @@ Alquezar"
 	node
 	[
 		id	491
+		label	"Martillo"
 		graphics
 		[
 			x	1486.1324204592313
@@ -11823,6 +12763,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Martillo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11832,6 +12773,7 @@ Alquezar"
 	node
 	[
 		id	492
+		label	"La Forja"
 		graphics
 		[
 			x	1508.5175794616591
@@ -11844,6 +12786,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"La Forja"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11853,6 +12796,7 @@ Alquezar"
 	node
 	[
 		id	493
+		label	"Sector Melilla"
 		graphics
 		[
 			x	1527.1983648049256
@@ -11870,6 +12814,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Melilla"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11884,6 +12829,7 @@ Alquezar"
 	node
 	[
 		id	494
+		label	"Melilla"
 		graphics
 		[
 			x	1503.7472417334754
@@ -11896,6 +12842,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Melilla"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11905,6 +12852,7 @@ Alquezar"
 	node
 	[
 		id	495
+		label	"ON-82"
 		graphics
 		[
 			x	1549.9815191263758
@@ -11917,6 +12865,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"ON-82"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11926,6 +12875,7 @@ Alquezar"
 	node
 	[
 		id	496
+		label	"Sector Principito"
 		graphics
 		[
 			x	1744.2312890731496
@@ -11943,6 +12893,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Principito"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -11957,6 +12908,7 @@ Alquezar"
 	node
 	[
 		id	497
+		label	"ON-137"
 		graphics
 		[
 			x	1675.4007528944535
@@ -11969,6 +12921,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"ON-137"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11978,6 +12931,7 @@ Alquezar"
 	node
 	[
 		id	498
+		label	"ON-94"
 		graphics
 		[
 			x	1702.3141965029927
@@ -11990,6 +12944,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"ON-94"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -11999,6 +12954,7 @@ Alquezar"
 	node
 	[
 		id	499
+		label	"Principito"
 		graphics
 		[
 			x	1755.3316783508476
@@ -12011,6 +12967,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Principito"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12020,6 +12977,7 @@ Alquezar"
 	node
 	[
 		id	500
+		label	"ON-363"
 		graphics
 		[
 			x	1797.7456638291317
@@ -12032,6 +12990,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"ON-363"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12041,6 +13000,7 @@ Alquezar"
 	node
 	[
 		id	501
+		label	"ON-412"
 		graphics
 		[
 			x	1813.0618252518454
@@ -12053,6 +13013,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"ON-412"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12062,6 +13023,7 @@ Alquezar"
 	node
 	[
 		id	502
+		label	"Horsehead Nebula"
 		graphics
 		[
 			x	1870.5591524503918
@@ -12079,6 +13041,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Horsehead Nebula"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -12092,6 +13055,7 @@ Alquezar"
 	node
 	[
 		id	503
+		label	"El Mar del Crepusculo"
 		graphics
 		[
 			x	1949.7160032869729
@@ -12109,6 +13073,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"El Mar del Crep&#xfa;sculo"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -12123,6 +13088,7 @@ Alquezar"
 	node
 	[
 		id	504
+		label	"HN-916"
 		graphics
 		[
 			x	2014.7070953846003
@@ -12135,6 +13101,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-916"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12144,6 +13111,7 @@ Alquezar"
 	node
 	[
 		id	505
+		label	"HN-917"
 		graphics
 		[
 			x	2014.7070953846003
@@ -12156,6 +13124,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-917"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12165,6 +13134,7 @@ Alquezar"
 	node
 	[
 		id	506
+		label	"HN-1362"
 		graphics
 		[
 			x	1932.885620359759
@@ -12177,6 +13147,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-1362"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12186,6 +13157,7 @@ Alquezar"
 	node
 	[
 		id	507
+		label	"HN - 923"
 		graphics
 		[
 			x	1959.9954288092956
@@ -12198,6 +13170,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN - 923"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12207,6 +13180,7 @@ Alquezar"
 	node
 	[
 		id	508
+		label	"HN-1702"
 		graphics
 		[
 			x	1888.0618252518454
@@ -12219,6 +13193,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-1702"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12228,6 +13203,7 @@ Alquezar"
 	node
 	[
 		id	509
+		label	"Sector Manticore"
 		graphics
 		[
 			x	1758.232481260362
@@ -12245,6 +13221,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Manticore"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -12259,6 +13236,7 @@ Alquezar"
 	node
 	[
 		id	510
+		label	"HN-106"
 		graphics
 		[
 			x	1779.3383111242485
@@ -12271,6 +13249,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-106"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12280,6 +13259,7 @@ Alquezar"
 	node
 	[
 		id	511
+		label	"Antevas"
 		graphics
 		[
 			x	1723.6281197264411
@@ -12292,6 +13272,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Antevas"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12301,6 +13282,7 @@ Alquezar"
 	node
 	[
 		id	512
+		label	"Manticore"
 		graphics
 		[
 			x	1788.172780294283
@@ -12313,6 +13295,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Manticore"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12322,6 +13305,7 @@ Alquezar"
 	node
 	[
 		id	513
+		label	"HN-72"
 		graphics
 		[
 			x	1727.2474464872546
@@ -12334,6 +13318,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-72"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12343,6 +13328,7 @@ Alquezar"
 	node
 	[
 		id	514
+		label	"San Mateo"
 		graphics
 		[
 			x	1732.0732155016726
@@ -12355,6 +13341,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"San Mateo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12364,6 +13351,7 @@ Alquezar"
 	node
 	[
 		id	515
+		label	"Sector Basilisco"
 		graphics
 		[
 			x	1811.7761854474752
@@ -12381,6 +13369,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Basilisco"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -12395,6 +13384,7 @@ Alquezar"
 	node
 	[
 		id	516
+		label	"Basilisco"
 		graphics
 		[
 			x	1779.3383111242485
@@ -12407,6 +13397,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Basilisco"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12416,6 +13407,7 @@ Alquezar"
 	node
 	[
 		id	517
+		label	"HN-871"
 		graphics
 		[
 			x	1847.214059770702
@@ -12428,6 +13420,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-871"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12437,6 +13430,7 @@ Alquezar"
 	node
 	[
 		id	518
+		label	"Sector Arjona"
 		graphics
 		[
 			x	1808.447459805593
@@ -12454,6 +13448,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Arjona"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -12468,6 +13463,7 @@ Alquezar"
 	node
 	[
 		id	519
+		label	"HN-464"
 		graphics
 		[
 			x	1760.1162357151316
@@ -12480,6 +13476,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-464"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12489,6 +13486,7 @@ Alquezar"
 	node
 	[
 		id	520
+		label	"Popper"
 		graphics
 		[
 			x	1803.6651477429168
@@ -12501,6 +13499,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Popper"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12510,6 +13509,7 @@ Alquezar"
 	node
 	[
 		id	521
+		label	"Marley"
 		graphics
 		[
 			x	1859.4505588960544
@@ -12522,6 +13522,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Marley"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12531,6 +13532,7 @@ Alquezar"
 	node
 	[
 		id	522
+		label	"Arjona"
 		graphics
 		[
 			x	1809.783397305593
@@ -12543,6 +13545,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Arjona"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12552,6 +13555,7 @@ Alquezar"
 	node
 	[
 		id	523
+		label	"El Brillante Mar"
 		graphics
 		[
 			x	1961.7134053539858
@@ -12569,6 +13573,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"El Brillante Mar"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -12583,6 +13588,7 @@ Alquezar"
 	node
 	[
 		id	524
+		label	"HN-562"
 		graphics
 		[
 			x	1948.9086815404441
@@ -12595,6 +13601,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-562"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12604,6 +13611,7 @@ Alquezar"
 	node
 	[
 		id	525
+		label	"HN-713"
 		graphics
 		[
 			x	1990.3801340080997
@@ -12616,6 +13624,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-713"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12625,6 +13634,7 @@ Alquezar"
 	node
 	[
 		id	526
+		label	"HN-388"
 		graphics
 		[
 			x	2004.5181291675276
@@ -12637,6 +13647,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-388"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12646,6 +13657,7 @@ Alquezar"
 	node
 	[
 		id	527
+		label	"HN-613"
 		graphics
 		[
 			x	1918.9086815404441
@@ -12658,6 +13670,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"HN-613"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12667,6 +13680,7 @@ Alquezar"
 	node
 	[
 		id	528
+		label	"Mukta Duniya"
 		graphics
 		[
 			x	1777.965166627589
@@ -12684,6 +13698,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Mukta Duniya"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -12697,6 +13712,7 @@ Alquezar"
 	node
 	[
 		id	529
+		label	"Sector Darius"
 		graphics
 		[
 			x	1649.6109831752651
@@ -12714,6 +13730,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Darius"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -12728,6 +13745,7 @@ Alquezar"
 	node
 	[
 		id	530
+		label	"Salah al-Din"
 		graphics
 		[
 			x	1592.4146863803849
@@ -12740,6 +13758,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Salah al-Din"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12749,6 +13768,7 @@ Alquezar"
 	node
 	[
 		id	531
+		label	"Darius"
 		graphics
 		[
 			x	1712.351877112166
@@ -12761,6 +13781,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Darius"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12770,6 +13791,7 @@ Alquezar"
 	node
 	[
 		id	532
+		label	"Cyrus"
 		graphics
 		[
 			x	1613.5969630459465
@@ -12782,6 +13804,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Cyrus"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12791,6 +13814,7 @@ Alquezar"
 	node
 	[
 		id	533
+		label	"Sector Nae Bangladesa"
 		graphics
 		[
 			x	1915.0705912519693
@@ -12808,6 +13832,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Nae Bangladesa"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -12822,6 +13847,7 @@ Alquezar"
 	node
 	[
 		id	534
+		label	"Pradana"
 		graphics
 		[
 			x	2004.7395353155255
@@ -12834,6 +13860,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Pradana"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12843,6 +13870,7 @@ Alquezar"
 	node
 	[
 		id	535
+		label	"Chandrana ke Sunya"
 		graphics
 		[
 			x	1926.9586053885478
@@ -12855,6 +13883,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Chandrana ke Sunya"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12864,6 +13893,7 @@ Alquezar"
 	node
 	[
 		id	536
+		label	"Saranyu"
 		graphics
 		[
 			x	1834.9143660693549
@@ -12876,6 +13906,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Saranyu"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12885,6 +13916,7 @@ Alquezar"
 	node
 	[
 		id	537
+		label	"Cauraha"
 		graphics
 		[
 			x	1892.4420156438505
@@ -12897,6 +13929,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Cauraha"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12906,6 +13939,7 @@ Alquezar"
 	node
 	[
 		id	538
+		label	"Antariksa Khanana"
 		graphics
 		[
 			x	1984.4862549630432
@@ -12918,6 +13952,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Antariksa Khanana"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12927,6 +13962,7 @@ Alquezar"
 	node
 	[
 		id	539
+		label	"Nae Bangladesa"
 		graphics
 		[
 			x	1954.5718771843055
@@ -12939,6 +13975,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Nae Bangladesa"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12948,6 +13985,7 @@ Alquezar"
 	node
 	[
 		id	540
+		label	"Abhayaranya"
 		graphics
 		[
 			x	1830.3121541033952
@@ -12960,6 +13998,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Abhayaranya"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -12969,6 +14008,7 @@ Alquezar"
 	node
 	[
 		id	541
+		label	"Sector Ghandi"
 		graphics
 		[
 			x	1622.7363914134896
@@ -12986,6 +14026,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Ghandi"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13000,6 +14041,7 @@ Alquezar"
 	node
 	[
 		id	542
+		label	"Batra"
 		graphics
 		[
 			x	1658.8978983479883
@@ -13012,6 +14054,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Batra"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13021,6 +14064,7 @@ Alquezar"
 	node
 	[
 		id	543
+		label	"Kanade"
 		graphics
 		[
 			x	1578.7825924445629
@@ -13033,6 +14077,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Kanade"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13042,6 +14087,7 @@ Alquezar"
 	node
 	[
 		id	544
+		label	"Ghandi"
 		graphics
 		[
 			x	1637.219639103532
@@ -13054,6 +14100,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Ghandi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13063,6 +14110,7 @@ Alquezar"
 	node
 	[
 		id	545
+		label	"Ebadi"
 		graphics
 		[
 			x	1584.437790508334
@@ -13075,6 +14123,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Ebadi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13084,6 +14133,7 @@ Alquezar"
 	node
 	[
 		id	546
+		label	"Maathai"
 		graphics
 		[
 			x	1637.219639103532
@@ -13096,6 +14146,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Maathai"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13105,6 +14156,7 @@ Alquezar"
 	node
 	[
 		id	547
+		label	"Sector Nai Dunya"
 		graphics
 		[
 			x	1895.139299058463
@@ -13122,6 +14174,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Nai Dunya"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13136,6 +14189,7 @@ Alquezar"
 	node
 	[
 		id	548
+		label	"Nai Duniya"
 		graphics
 		[
 			x	1814.2575566987105
@@ -13148,6 +14202,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Nai Duniya"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13157,6 +14212,7 @@ Alquezar"
 	node
 	[
 		id	549
+		label	"Nai Varanasi"
 		graphics
 		[
 			x	1899.7298846987705
@@ -13169,6 +14225,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Nai Varanasi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13178,6 +14235,7 @@ Alquezar"
 	node
 	[
 		id	550
+		label	"Nai Haidarabada"
 		graphics
 		[
 			x	1932.328886124318
@@ -13190,6 +14248,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Nai Haidarabada"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13199,6 +14258,7 @@ Alquezar"
 	node
 	[
 		id	551
+		label	"Yathesta Bhumi"
 		graphics
 		[
 			x	1963.0102992307154
@@ -13211,6 +14271,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Yathesta Bhumi"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13220,6 +14281,7 @@ Alquezar"
 	node
 	[
 		id	552
+		label	"Vikrama ke graha"
 		graphics
 		[
 			x	1915.0705912519693
@@ -13232,6 +14294,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Vikrama ke graha"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13241,6 +14304,7 @@ Alquezar"
 	node
 	[
 		id	553
+		label	"Sector Chandrasekhar"
 		graphics
 		[
 			x	1857.4103159989806
@@ -13258,6 +14322,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Chandrasekhar"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13272,6 +14337,7 @@ Alquezar"
 	node
 	[
 		id	554
+		label	"Ramanujan"
 		graphics
 		[
 			x	1811.8457982356595
@@ -13284,6 +14350,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Ramanujan"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13293,6 +14360,7 @@ Alquezar"
 	node
 	[
 		id	555
+		label	"Chandrasekhar"
 		graphics
 		[
 			x	1855.950329576106
@@ -13305,6 +14373,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Chandrasekhar"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13314,6 +14383,7 @@ Alquezar"
 	node
 	[
 		id	556
+		label	"Sarabhai"
 		graphics
 		[
 			x	1909.6428025123018
@@ -13326,6 +14396,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sarabhai"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13335,6 +14406,7 @@ Alquezar"
 	node
 	[
 		id	557
+		label	"Veil Nebula"
 		graphics
 		[
 			x	1898.4014337576427
@@ -13352,6 +14424,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Veil Nebula"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13365,6 +14438,7 @@ Alquezar"
 	node
 	[
 		id	558
+		label	"The Outer Veil"
 		graphics
 		[
 			x	1885.531323529951
@@ -13382,6 +14456,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"The Outer Veil"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13396,6 +14471,7 @@ Alquezar"
 	node
 	[
 		id	559
+		label	"VN-381"
 		graphics
 		[
 			x	1787.0379537083197
@@ -13408,6 +14484,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-381"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13418,6 +14495,7 @@ Alquezar"
 	node
 	[
 		id	560
+		label	"VN-128"
 		graphics
 		[
 			x	1872.1030650578668
@@ -13430,6 +14508,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-128"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13440,6 +14519,7 @@ Alquezar"
 	node
 	[
 		id	561
+		label	"VN-732"
 		graphics
 		[
 			x	1925.7955379940627
@@ -13452,6 +14532,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-732"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13462,6 +14543,7 @@ Alquezar"
 	node
 	[
 		id	562
+		label	"VN-697"
 		graphics
 		[
 			x	1985.7955379940627
@@ -13474,6 +14556,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-697"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13484,6 +14567,7 @@ Alquezar"
 	node
 	[
 		id	563
+		label	"VN-32"
 		graphics
 		[
 			x	1855.950329576106
@@ -13496,6 +14580,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-32"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13506,6 +14591,7 @@ Alquezar"
 	node
 	[
 		id	564
+		label	"VN-1241"
 		graphics
 		[
 			x	1937.2283175500545
@@ -13518,6 +14604,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-1241"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13528,6 +14615,7 @@ Alquezar"
 	node
 	[
 		id	565
+		label	"VN-362"
 		graphics
 		[
 			x	1997.2283175500545
@@ -13540,6 +14628,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-362"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13550,6 +14639,7 @@ Alquezar"
 	node
 	[
 		id	566
+		label	"The Remote"
 		graphics
 		[
 			x	1924.8119147375505
@@ -13567,6 +14657,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"The Remote"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13581,6 +14672,7 @@ Alquezar"
 	node
 	[
 		id	567
+		label	"VN-1571"
 		graphics
 		[
 			x	1878.7543882189796
@@ -13593,6 +14685,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-1571"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13603,6 +14696,7 @@ Alquezar"
 	node
 	[
 		id	568
+		label	"VN-1780"
 		graphics
 		[
 			x	1927.5211810033486
@@ -13615,6 +14709,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-1780"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13625,6 +14720,7 @@ Alquezar"
 	node
 	[
 		id	569
+		label	"VN-3110"
 		graphics
 		[
 			x	1970.8694412561213
@@ -13637,6 +14733,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"VN-3110"
 			color	"#FFFFFF"
 			fontSize	12
 			fontName	"Dialog"
@@ -13647,6 +14744,7 @@ Alquezar"
 	node
 	[
 		id	570
+		label	"Paraiso"
 		graphics
 		[
 			x	1783.3409178065094
@@ -13664,6 +14762,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Paraiso"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13677,6 +14776,7 @@ Alquezar"
 	node
 	[
 		id	571
+		label	"Sector New Jerusalem"
 		graphics
 		[
 			x	1974.2993188701635
@@ -13694,6 +14794,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector New Jerusalem"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13708,6 +14809,7 @@ Alquezar"
 	node
 	[
 		id	572
+		label	"New Jerusalem"
 		graphics
 		[
 			x	1974.1960164873012
@@ -13720,6 +14822,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"New Jerusalem"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13729,6 +14832,7 @@ Alquezar"
 	node
 	[
 		id	573
+		label	"Sulaha"
 		graphics
 		[
 			x	1922.517757242845
@@ -13741,6 +14845,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sulaha"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13750,6 +14855,7 @@ Alquezar"
 	node
 	[
 		id	574
+		label	"Chutti"
 		graphics
 		[
 			x	2004.7395353155255
@@ -13762,6 +14868,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Chutti"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13771,6 +14878,7 @@ Alquezar"
 	node
 	[
 		id	575
+		label	"Vishnu"
 		graphics
 		[
 			x	2026.4177945599818
@@ -13783,6 +14891,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Vishnu"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13792,6 +14901,7 @@ Alquezar"
 	node
 	[
 		id	576
+		label	"Sector Paraiso"
 		graphics
 		[
 			x	1649.6109831752653
@@ -13809,6 +14919,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Paraiso"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13823,6 +14934,7 @@ Alquezar"
 	node
 	[
 		id	577
+		label	"Dawaamah al-lahib"
 		graphics
 		[
 			x	1725.9432768599936
@@ -13835,6 +14947,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Dawaamah al-lahib"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13844,6 +14957,7 @@ Alquezar"
 	node
 	[
 		id	578
+		label	"Paraiso"
 		graphics
 		[
 			x	1668.448763211653
@@ -13856,6 +14970,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Paraiso"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13865,6 +14980,7 @@ Alquezar"
 	node
 	[
 		id	579
+		label	"Mar Tranquilla"
 		graphics
 		[
 			x	1560.265017615537
@@ -13877,6 +14993,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Mar Tranquilla"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13886,6 +15003,7 @@ Alquezar"
 	node
 	[
 		id	580
+		label	"Sa'aa"
 		graphics
 		[
 			x	1567.8052817005655
@@ -13898,6 +15016,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sa'aa"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13907,6 +15026,7 @@ Alquezar"
 	node
 	[
 		id	581
+		label	"Ta'ammul"
 		graphics
 		[
 			x	1718.610563401131
@@ -13919,6 +15039,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Ta'ammul"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13928,6 +15049,7 @@ Alquezar"
 	node
 	[
 		id	582
+		label	"Sector Miltia"
 		graphics
 		[
 			x	1991.0474532662756
@@ -13945,6 +15067,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Sector Miltia"
 			fill	"#EBEBEB"
 			fontSize	15
 			fontName	"Dialog"
@@ -13959,6 +15082,7 @@ Alquezar"
 	node
 	[
 		id	583
+		label	"Miltia Gate"
 		graphics
 		[
 			x	1968.8410670984097
@@ -13971,6 +15095,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Miltia Gate"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -13980,6 +15105,7 @@ Alquezar"
 	node
 	[
 		id	584
+		label	"Haidel"
 		graphics
 		[
 			x	2009.6199996623075
@@ -13992,6 +15118,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Haidel"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -14001,6 +15128,7 @@ Alquezar"
 	node
 	[
 		id	585
+		label	"Miltia"
 		graphics
 		[
 			x	1958.7848820769773
@@ -14013,6 +15141,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Miltia"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
@@ -14022,6 +15151,7 @@ Alquezar"
 	node
 	[
 		id	586
+		label	"Cedillo"
 		graphics
 		[
 			x	1958.7848820769773
@@ -14034,6 +15164,7 @@ Alquezar"
 		]
 		LabelGraphics
 		[
+			text	"Cedillo"
 			fontSize	12
 			fontName	"Dialog"
 			model	"null"
