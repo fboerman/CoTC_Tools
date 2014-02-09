@@ -7,7 +7,7 @@ import encoding
 
 def Provinces():
     #the provinces
-    #provinces are stored as a list of dictionaries. each dictionary has the following info:
+    #provinces are stored as a dictionary of dictionaries. key is the province name, value has the following info:
     #culture, religion, the id, and a dictionary of baronies with name as key and dictionary of properties as value
 
     #read all the filenames in the province folder, use the one run for loop as a hack to get data from generator
@@ -16,7 +16,7 @@ def Provinces():
         files = info[2]
         break
 
-    provinces = []
+    provinces = {}
     #iterate through all the filenames
     for filename in files:
         province = {} #create new dictionary for the province
@@ -88,8 +88,14 @@ def Provinces():
                                             print("Invalid building type '" + buildingtype + "' at line " + str(j) + " in file '" + filename + "'")
                 except KeyError:#faulty barony
                     print("None existing barony title '" + barony + "' in file '" + filename + "'")
-        #done with parsing, put the province on the list
-        provinces.append(province)
+        #done with parsing, put the province in the dictionary
+        if len(filename.split("-")) == 2:
+            provincename = filename.split("-")[1].split(".")[0].strip()
+        else:
+            items = filename.split("-")
+            items.pop(0)
+            provincename = "-".join(items).split(".")[0].strip()
+        provinces[provincename] = province
 
     #dump the list of dictionaries to a json file, this will overwrite existing json file
     print("parsing provinces done")

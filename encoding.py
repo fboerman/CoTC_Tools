@@ -12,7 +12,7 @@ cultures_per_region = {
     'Mukta Duniya' : 'indo_mukta',
     'The Outer Veil' : 'indo_mukta', #part of the Veil Nebula
     'The Remote' : 'indo_tarkan', #part of the Veil Nebula
-    'Akkala' : 'indo_tarkan',
+    'Tarka' : 'indo_tarkan',
     'Avalon' : 'anglo_avalonian',
     'Frontier' : 'anglo_frontiersman',
     'New Frontier' : 'anglo_frontiersman',
@@ -34,24 +34,12 @@ ideology_per_region = {
     'Xin Zizhiqu' : 'colonial_seperatist',
     'New Frontier' : 'colonial_seperatist',
     'Bianjiang' : 'colonial_seperatist',
-    'Sector Tarka' : 'cyberneticist',
+    'Tarka' : 'cyberneticist',
     'Jion' : 'astrist',
     'Novyy Edem' : 'astrist',
     'Strugatsky' : 'neo_socialist',
     'Parasio' : 'pilgrim'
 }
-
-# Atmosphere
-#  xx_no_atmosphere -> xx_no_atmosphere_domes -> xx_artificial_atmosphere
-#  xx_toxic_atmosphere -> xx_toxic_atmosphere_domes -> xx_scrubbed_atmosphere
-#  xx_clean_atmosphere
-# Temperature
-#  xx_frozen -> xx_cold -> xx_cool -> xx_optimal_cold
-#  xx_burning -> xx_hot -> xx_warm -> xx_optimal_hot
-# Water
-#  xx_no_water -> xx_trace_water -> xx_lakes -> xx_seas -> xx_oceans
-# Space Station Size
-#  xx_space_station_0 -> xx_space_station_1 -> xx_space_station_2 -> xx_space_station_3 -> xx_space_station_4
 
 Atmosphere = [
     'xx_no_atmosphere',

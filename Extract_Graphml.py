@@ -8,7 +8,7 @@ import json
 hierarchy = {}
 
 #open the file
-stream = open("Crisis of the Confederation Map.gml", "r")
+stream = open("Crisis of the Confederation Map Corrected.gml", "r")
 file = stream.readlines()#preread all the lines to make it easier to jump in the file
 stream.close()
 # iterate through it
@@ -21,7 +21,7 @@ while i < len(file):
         i += 2
         id = file[i].strip("\t").split("\t")[1].strip("\n")
         i += 1
-        name = file[i].strip("\t").split("\t")[1].strip("\n").strip('"')
+        name = file[i].strip("\t").split("\t")[1].strip("\n").strip('"').strip()
         isGroup = 0
         gid = None
         while i < len(file):
