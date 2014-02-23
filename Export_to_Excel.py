@@ -1,4 +1,5 @@
 __author__ = 'williewonka'
+__excelfile__ = 'Provinces_Attributes_2.xlsx'
 
 import openpyxl
 import json
@@ -20,7 +21,8 @@ for filename in files:
     existing_provinces.append(provincename)
 
 #load the json file for hierarchy
-jsonfile = open("provinces_hierarchy.json", "r")
+# jsonfile = open("provinces_hierarchy.json", "r")
+jsonfile = open("hierarchy.json", "r")
 hierarchy = json.loads(jsonfile.readlines()[0])
 
 #load the extisting provinces info json
@@ -49,22 +51,22 @@ sheet.cell(row=0, column=14).value = "Astroids type (blank or 1)"
 
 #iterate trough the hierarchy and print all of the info
 row = 1
-for kingdomid in hierarchy:
-    kingdom = hierarchy[kingdomid]
-    sheet.cell(row=row,column=0).value = kingdom['name']
+for kingdom in list(hierarchy.keys()):
+    # kingdom = hierarchy[kingdomid]
+    sheet.cell(row=row,column=0).value = kingdom
     row += 1
-    for duchyid in kingdom['children']:
-        duchy = kingdom['children'][duchyid]
-        sheet.cell(row=row,column=1).value = duchy['name']
+    for duchy in list(hierarchy[kingdom].keys()):
+        # duchy = kingdom['children'][duchyid]
+        sheet.cell(row=row,column=1).value = duchy
         row += 1
-        for countyid in duchy['children']:
+        for county in hierarchy[kingdom][duchy]:
             #get the county name and print it
-            county = duchy['children'][countyid]
-            sheet.cell(row=row,column=2).value = county['name']
+            # county = duchy['children'][countyid]
+            sheet.cell(row=row,column=2).value = county
             #if there is already a file get the info from that
-            if county['name'] in existing_provinces:
+            if county in existing_provinces:
                 sheet.cell(row=row, column=5).value = 1
-                info = existing_provinces_info[county['name']]
+                info = existing_provinces_info[county]
                 sheet.cell(row=row,column=3).value = info['culture']
                 sheet.cell(row=row,column=4).value = info['religion']
                 sheet.cell(row=row,column=6).value = info['max_settlements']
@@ -77,8 +79,8 @@ for kingdomid in hierarchy:
                         sheet.cell(row=row, column=7).value = baronie_name
                         sheet.cell(row=row,column=8).value = baronie_info['holding_type']
                         #check all the building levels
-                        if 'Atmosphere' in baronie_info:
-                            sheet.cell(row=row, column=10).value = baronie_info['Atmosphere']
+                        if 'Athmosphere' in baronie_info:
+                            sheet.cell(row=row, column=10).value = baronie_info['Athmosphere']
                         if 'Temperature' in baronie_info:
                             sheet.cell(row=row, column=12).value = baronie_info['Temperature']
                         if 'Water' in baronie_info:
@@ -93,23 +95,23 @@ for kingdomid in hierarchy:
                 sheet.cell(row=row, column=5).value = 0
                 #no existing file so get religion and culture from defined areas
                 #first find culture
-                if kingdom['name'] in encoding.cultures_per_region:
-                    culture = encoding.cultures_per_region[kingdom['name']]
-                elif duchy['name'] in encoding.cultures_per_region:
-                    culture = encoding.cultures_per_region[duchy['name']]
+                if kingdom in encoding.cultures_per_region:
+                    culture = encoding.cultures_per_region[kingdom]
+                elif duchy in encoding.cultures_per_region:
+                    culture = encoding.cultures_per_region[duchy]
                 else:
                     #no culture defined
                     culture = 'Undefined'
                 sheet.cell(row=row,column=3).value = culture
                 #now find religion
-                if kingdom['name'] in encoding.ideology_per_region:
-                    religion = encoding.ideology_per_region[kingdom['name']]
-                elif duchy['name'] in encoding.ideology_per_region:
-                    religion = encoding.ideology_per_region[duchy['name']]
+                if kingdom in encoding.ideology_per_region:
+                    religion = encoding.ideology_per_region[kingdom]
+                elif duchy in encoding.ideology_per_region:
+                    religion = encoding.ideology_per_region[duchy]
                 else:
                     religion = 'Undefined'
                 sheet.cell(row=row,column=4).value = religion
             row += 1
-
-wb.save("Provinces_Attributes.xlsx")
+#save the created workbook to file
+wb.save(__excelfile__)
 print("done")

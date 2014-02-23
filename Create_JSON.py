@@ -3,7 +3,7 @@ __author__ = 'williewonka'
 import os
 import json
 import encoding
-
+import argparse
 
 def Provinces():
     #the provinces
@@ -20,7 +20,7 @@ def Provinces():
     #iterate through all the filenames
     for filename in files:
         province = {} #create new dictionary for the province
-        provincename = "provinces/" + filename
+        provincename = "./provinces/" + filename
         file = open(provincename,encoding="UTF-8").readlines()
         province['id'] = int(filename.split("-")[0].strip())
         #iterate through first part of the history file
@@ -164,6 +164,84 @@ def Dynasties():
     stream.close()
     print('dynasties updated')
 
-#main
-Provinces()
-# Dynasties()
+def Hierarchy():
+    #reads the hierarchy.txt from the extraction of the gml to a json file
+    #json file is a dictionary which holds dictionaries of the level beneath it three levels deep: top kingdoms duchies. a duchy entry holds a list
+    #of counties
+
+    hierarchy = {}
+    #first open file and iterate through it
+    file = open("hierarchy.txt", 'r').readlines()
+    i = 0
+    while i < len(file):
+        print(str(i))
+        line = file[i].strip('\n')
+        kingdomname = line.strip(":")
+        hierarchy[kingdomname] = {}
+        j = i + 1
+        while j <= len(file):#iterate through the kingdom
+            print(str(j))
+            line = file[j].strip(":").strip('\n')
+            if line.count('\t') == 1:#is a duchy, put it in hierarchy and iterate through it
+                duchyname = line.strip('\t').strip(":")
+                if duchyname in hierarchy[kingdomname]: #if ducy already exists than throw an error
+                    raise Exception("Double duchy entry at line " + str(j))
+                hierarchy[kingdomname][duchyname] = {}
+                #start loop for counties
+                counties = []
+                z = j + 1
+                while z <= len(file):
+                    print(str(z))
+                    #if the line gives an error than end of file is reached, save the list and exit
+                    try:
+                        line = file[z].strip('\n')
+                    except:
+                        hierarchy[kingdomname][duchyname] = counties
+                        j = z
+                        break
+                    if line.count('\t') == 2: #a county, add it to the list
+                        counties.append(line.strip('\t'))
+                    else: #no county so save the list and break from this loop
+                        hierarchy[kingdomname][duchyname] = counties
+                        j = z - 1
+                        break
+                    z += 1
+            elif line.count('\t') == 0:#duchy ends so end this loop
+                i = j - 1
+                break
+            else: #invalid tabs, throw error but check first for end of file
+                raise Exception("Invalid tab count of " + str(line.count('\t')) + " on line " + str(j))
+
+            if j == len(file):
+                i = j
+                break
+            j += 1
+        if i == len(file):
+            break
+        i += 1
+
+    print("parsing hierarchy.txt done")
+    JSON = json.dumps(hierarchy)
+    print("json object created")
+    stream = open('hierarchy.json', 'w')
+    stream.writelines(JSON)
+    stream.close()
+    print("hierarchies updated")
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser(description='tool that caches data to json objects')
+    parser.add_argument('--operation', nargs='?', const=1, type=str, default='all', help='provinces/dynasties/hierarchy/all')
+
+    choice = parser.parse_args().operation
+    if choice == 'provinces':
+        Provinces()
+    elif choice == 'dyasties':
+        Dynasties()
+    elif choice == 'hierarchy':
+        Hierarchy()
+    elif choice == 'all':
+        Provinces()
+        Dynasties()
+        Hierarchy()
+    else:
+        print('Invalid choice!')

@@ -90,3 +90,9 @@ Asteroids = [
     'None',
     'xx_asteroids'
 ]
+
+holding_codes = {
+    'castle' : 'ca',
+    'temple' : 'tp',
+    'city' : 'ct'
+}

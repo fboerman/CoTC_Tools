@@ -1,0 +1,587 @@
+Cielia:
+	Sector Frontera:
+		Illuminacion
+		Puerto del Cielo
+		Dom Frontera
+	Sector Vega:
+		Vega
+		Prosperidad
+		Nuevo Sol
+	Sector Bolivar:
+		Santa Maria
+		Esperanza
+		Estrella de Bolivar
+		Ahora la Luz
+	Sector Encrucijada:
+		Escudo
+		Hermanes de Oro
+		Nuevo Santuario
+		Encrucijada
+	Sector Sexto Sol:
+		Tlexochtli
+		Nantli
+		Huehca
+		Nahui-Ahtle
+		Tletlioh
+Orion Nebula:
+	La Forja de Dios:
+		La Forja
+		Yunque
+		Martillo
+	Sector Melilla:
+		Melilla
+		ON-82
+	Mar del Tyken:
+		ON-793
+		ON-567
+	Sector Sortelha:
+		ON-47
+		Sortelha
+		ON-19
+	Sector Principito:
+		ON-363
+		ON-412
+		ON-94
+		Principito
+		ON-137
+Veil Nebula:
+	The Remote:
+		VN-1571
+		VN-1780
+		VN-3110
+	The Outer Veil:
+		VN-381
+		VN-1241
+		VN-362
+		VN-697
+		VN-32
+		VN-128
+		VN-732
+Witch Head Nebula:
+	Upper Witch Head:
+		WH-021
+		WH-998
+		WH-064
+		WH-253
+		WH-229
+		Alpha Sagittarii
+		Napata
+	Lower Witch Head:
+		WH-178
+		WH-930
+		WH-336
+	Core Witch Head:
+		WH-835
+		Trigorin
+		WH-367
+		WH-732
+		Fukuoka
+		Ariadne
+Zenye Nyota Angani:
+	Sector Adwa:
+		Addis Saba
+		Abbaba
+		Haile Selassie
+		Menelik
+		Addis Adwa
+	Sector Afolayan:
+		Anansi
+		Nyame
+		Afolayan
+	Sector Mpya Zanzibar:
+		Angani Moto
+		Mpya ya Zanzibar
+		Upeo wa Macho
+	Sector Nyota 'Mwisho:
+		Nyota 'Mwisho
+		Sisi Alifanya Hivyo
+		Bandari
+	Sector Ndia Panda:
+		Kimbilio
+		Tengemano
+		Ndia Panda
+Tiantiang:
+	Sector Guangdong:
+		Tsim Sha Tsui
+		Guanzhou
+		Quanzhou
+	Sector Shaanxi:
+		Nanchong
+		Fangqu Liehuzuo
+		ZhengZhou
+		Xie Xi'an
+		Chongqing
+	Sector Heibei:
+		Tianjin
+		Xie Beijing
+		Shenyang
+	Sector Sichuan:
+		Chengdu
+		Bolivar Fangyuqu
+		Xie Lanzhou
+	Sector Shanghai:
+		Fangqu
+		Nanjing
+		Shanghai
+		Hangzhou
+	Sector Yunnan:
+		Wuha
+		Kunming
+Strugatsky:
+	Sector Raduga:
+		Kristall
+		Luch
+		Granat
+		Raduga
+	Sector Kovcheg:
+		Katerin Vselennaya
+		Kovcheg
+		Migdal
+	Sector Saula:
+		Saula
+		Solonichenko pas
+	Sector Novyy Sol:
+		Novyy Sol
+		Nad'ezhda
+		Vladislava
+	Sector Arkanar:
+		Yaila
+		Ruzhena
+		Arkanar
+		Pandora
+Jion:
+	Sector Taikun:
+		Rasen
+		Taikun
+		Moegara
+	Sector Iogi:
+		Odayakanaumi
+		Iogi
+		Fuyuki
+	Sector Sumitomo:
+		Sumitomo
+		Saber
+	Sector Hiyokuoka:
+		Hiyokuoka
+		Sen eisei
+		Takagi
+	Sector Jion:
+		Kojo
+		Uminoasa
+		Akasei
+		Jion
+	Sector Okyoto-Nara:
+		Okyoto
+		Sabashi
+		Nara
+		Mie
+		Shiga
+Terran Commonwealth:
+	Sector Sol:
+		Alpha Centauri
+		Sol
+	Sector Tau Ceti:
+		Eta Cassiopeia
+		Tau Ceti
+		Epsilon Eridani
+	Sector Sirius:
+		Procyon
+		Sirius
+	Sector Altair:
+		Altair
+		Cygni
+	Sector Draconis:
+		Epsilon Indi
+		Beta Hydri
+		Sigma Draconis
+		Delta Pavonis
+Frontier:
+	Sector Shepard:
+		Shepard
+		Sharman
+		Jemison
+	Sector Armstrong:
+		Heartland
+		Collins
+		Aldrin
+		Armstrong
+	Sector Ride:
+		Ride
+		Challenger
+		Gemini
+		Lincoln
+		Liberty
+	Sector Apollo:
+		Beowulf
+		Apollo
+	Sector Glenn:
+		Weyland
+		Touchstone
+		John Henry
+		Glenn
+Avalon:
+	Sector Victoria:
+		Hawkwood
+		Garrison
+		Victoria
+		Endeavour
+	Sector Avalon:
+		Merlin
+		Camelot
+		Avalon
+		Paladin
+	Sector Alfred:
+		Alfred
+		Etherland
+	Sector Nelson:
+		Nelson
+		Chalice
+		Sherwood
+	Sector Galahad:
+		Shiverlight
+		Virtue
+		Galahad
+	Sector Lancelot:
+		Robinson
+		Numenor
+		Henry's Star
+		Lancelot
+	Sector Caliburn:
+		Mary's Star
+		Greywood
+		Caliburn
+Xin Zizhiqu:
+	Sector Tian Yuan:
+		Lasa
+		Tian Yuan
+		Yesushan
+		Yulin
+	Sector Qiangying:
+		Liuyang
+		Youli
+		Qiangying
+	Sector Hu&#x101;:
+		Wanguan
+		Fanxing Hai
+		Hu&#x101;
+	Sector Xin Qin:
+		Xin Qin
+		Hexi
+		Chi Tianliang
+		Xueyuan
+		Yang Wenli
+	Sector Deng biao:
+		Niú cúnlán
+		Gaoda de Shan
+		Deng Biao
+	Sector Wei:
+		Wei
+		Jiu Wanguan
+	Sector Yingshi:
+		Youfeng
+		Ghuanghai
+		Yingshi
+	Sector Hang Seng:
+		Tiantiang
+		Leyuan
+		Jiayuan
+		Xianggang Xin
+	Sector Wu Ren Zhi An:
+		Chen Pingyuan
+		Yonghengde Anbian
+		Anquan Gang
+		Da Dianhai
+	Sector Macau:
+		Macau
+		Pu-erh
+		Kantebolei
+Mukta Duniya:
+	Sector Chandrasekhar:
+		Sarabhai
+		Chandrasekhar
+		Ramanujan
+	Sector Nae Bangladesa:
+		Abhayaranya
+		Pradana
+		Cauraha
+		Chandrana ke Sunya
+		Nae Bangladesa
+		Antariksa Khanana
+		Saranyu
+	Sector Nai Dunya:
+		Vikrama ke graha
+		Yathesta Bhumi
+		Nai Haidarabada
+		Nai Duniya
+		Nai Varanasi
+	Sector Ghandi:
+		Ghandi
+		Ebadi
+		Maathai
+		Batra
+		Kanade
+	Sector Darius:
+		Darius
+		Salah al-Din
+		Cyrus
+New Frontier:
+	Sector Franklin:
+		Franklin
+		Legacy
+		Touchdown
+	Sector Jefferson:
+		Jefferson
+		Stacker
+		Miracle
+		Winterstar
+	Sector Washington:
+		Washington
+		Shadow's Rim
+		Delaware
+	Sector Adams:
+		Adams
+		Eagle
+		Abigail
+		Delphi
+	Sector Deadwood:
+		Roosevelt
+		Deadwood
+		Goldenrod
+	Sector Douglas:
+		Farland
+		Douglas
+		Overlook
+	Sector Lafayette:
+		De Gaulle
+		Lafayette
+		Silhouette
+Tarka:
+	Sector New Lusaka:
+		Madeira al-Jadiida
+		Kaksa ki vismata'em
+		New Lusaka
+	Sector Qoqnoos:
+		Qoqnoos
+		Omid
+		Ushirikiano
+	Sector Mandela:
+		Mandela
+		Mohamud
+	Sector Yeni Istanbul:
+		Porsa&#x2bf;id
+		Porfo&#x2be;ad
+		Unnati
+		Yeni Istanbul
+		Madaar Shaadhdh
+	Sector Tarka:
+		Tarka
+		Al-dabaran
+		Marrakesh al-Jadiida
+	Sector Talon:
+		Talon
+		Fezzan
+		Ksora
+		Oran
+	Sector Dhartvir:
+		Dharmvir
+		Dhartvir
+Paraiso:
+	Sector Miltia:
+		Miltia Gate
+		Haidel
+		Miltia
+		Cedillo
+	Sector Paraiso:
+		Sa'aa
+		Ta'ammul
+		Dawaamah al-lahib
+		Mar Tranquilla
+		Paraiso
+	Sector New Jerusalem:
+		Vishnu
+		Chutti
+		Sulaha
+		New Jerusalem
+Fire Nebula:
+	Sector Diyu:
+		Diyu
+		Xiao Mei
+	Sector Iserlohn:
+		FN-287
+		FN-331
+		Iserlohn
+		FN-379
+	Sector Shihai:
+		Infierno
+		FN-071
+		Shihai
+	Sector Chui:
+		FN-122
+		Chu&#xed;
+		FN-089
+	Sector Hades:
+		FN-664
+		FN-940
+		Hades
+		FN-1237
+Novyy Edem:
+	Sector Novyy Edem:
+		Novyy Edem
+		Loyal'nost'
+		Muzhestvo
+		Distsiplina
+	Sector Shen Yan:
+		Shen Yan
+		Luoxuan
+		Glaz Boga
+	Sector Prochnost:
+		Stabil'nost'
+		Vernost'
+		Prochnost'
+		Ostorozhnost'
+	Sector Sovershenstvo:
+		Sovershenstvo
+		Sashi Zvezdy
+		Ad
+		Vozneseniye
+	Sector Maoxian:
+		Pei Cheng
+		Maoxian
+	Sector Pobeda:
+		Tselostnost'
+		Vera
+		Probeda
+	Sector Almaz:
+		Almaz
+		Zhemchuzhina
+	Sector Mir:
+		Mir
+		Vynoslivost
+al-Samawat:
+	Sector Makkat al-Jadiida:
+		Janna
+		Makkat al-Jadiida
+		Israafiil
+		Farah
+		Burj Najmii
+	Sector al-Hadd:
+		al-Hadd
+		Kathiib
+		Qurtubat al-Jadiida
+		Shams Akhdar
+	Sector Jabra'iil:
+		al-Jisr
+		Sakina
+		Jabra'iil
+	Sector al-Bawwaaba:
+		al-Bawwaaba
+		Izraa'iil
+		al-Jaziira
+	Sector Amal:
+		Miixaa'iil
+		at-Taw'amayn
+		Amal
+Xingjie:
+	Sector Qinglong:
+		Qinglong
+		Fei Junlong
+		Nie Haisheng
+	Sector Huangjing:
+		Huanglong
+		Huangjing
+		Yang Liwei
+	Sector Zhuque:
+		Zhang Xiaoguang
+		Wang Yaping
+		Zhuque
+	Sector Xuanwu:
+		Zhai Zhigang
+		Xuanwu
+		Liu Boming
+		Jing Haipeng
+	Sector Baihu:
+		Baihu
+		Liu Yang
+		Liu Wang
+Orion Reach:
+	Sector Rigel:
+		Anilam
+		Dorter
+		Rigel
+		Mintaka
+		Genciana
+		Saiph
+	Sector Edison:
+		Fleming
+		Bell
+		Seldon
+		Warshawski
+	Sector Lebedev:
+		Meissa
+		Lebedev
+	Sector Ortega-Gaona:
+		Suerte
+		Nueva Valencia
+		Nueva Galicia
+	Sector Betelgeuse:
+		Betelgeuse
+		Reposo de
+		Estrella
+	Sector Bellatrix:
+		Hailu
+		Bellatrix
+	Sector Santiago:
+		Thimble
+		Komarr
+		Barrayar
+		Sergyar
+		Santiago
+Horsehead Nebula:
+	El Brillante Mar:
+		HN-388
+		HN-613
+		HN-562
+		HN-713
+	Sector Basilisco:
+		HN-871
+		Basilisco
+	Sector Manticore:
+		San Mateo
+		HN-72
+		Manticore
+		Antevas
+		HN-106
+	El Mar del Crepusculo:
+		HN-1702
+		HN-916
+		HN-917
+		HN-1362
+		HN - 923
+	Sector Arjona:
+		Arjona
+		Popper
+		Marley
+		HN-464
+The Centauri Reach:
+	Sector Tereshkova:
+		Tannhauser Gate
+		Tereshkova
+		Korolev
+	Sector Gagarin:
+		Novyy Arkhangelsk
+		Hu Lao Gate
+		Gagarin
+	Sector Tengoku:
+		Tengoku
+		Sotogawa no Ten
+Helix Nebula:
+	Lower Helix:
+		HE-794
+		HE-843
+		Eye of God
+		HE-153
+	Upper Helix:
+		HE-219
+		HE-702
+		Port Simon
+		HE-338
